@@ -1,4 +1,4 @@
-# Career-Compass 🧭
+# Career-Compass 
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Data_Science-blue)
 ![Career Guidance](https://img.shields.io/badge/Career-Guidance-brightgreen)
