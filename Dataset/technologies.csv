@@ -1,0 +1,785 @@
+job_id,technology,type
+dpe6PMukqHV5JcO0AAAAAA==,Python,Required
+dpe6PMukqHV5JcO0AAAAAA==,JavaScript,Required
+zBfyxkj1CBbVj7P0AAAAAA==,Python,Required
+zBfyxkj1CBbVj7P0AAAAAA==,R,Required
+zBfyxkj1CBbVj7P0AAAAAA==,SQL,Required
+zBfyxkj1CBbVj7P0AAAAAA==,Machine Learning,Required
+HJ8pPJb2mlPwBqy3AAAAAA==,Python,Required
+HJ8pPJb2mlPwBqy3AAAAAA==,SQL,Required
+HJ8pPJb2mlPwBqy3AAAAAA==,AWS,Required
+HJ8pPJb2mlPwBqy3AAAAAA==,SageMaker,Required
+HJ8pPJb2mlPwBqy3AAAAAA==,Bedrock,Required
+HJ8pPJb2mlPwBqy3AAAAAA==,Tableau,Required
+HJ8pPJb2mlPwBqy3AAAAAA==,QlikView,Required
+HJ8pPJb2mlPwBqy3AAAAAA==,PowerBI,Required
+HJ8pPJb2mlPwBqy3AAAAAA==,Angular,Preferred
+HJ8pPJb2mlPwBqy3AAAAAA==,React,Preferred
+HJ8pPJb2mlPwBqy3AAAAAA==,Flask,Preferred
+HJ8pPJb2mlPwBqy3AAAAAA==,Streamlit,Preferred
+HJ8pPJb2mlPwBqy3AAAAAA==,PySpark,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,Python,Required
+gK8DlJs7W1gnTis0AAAAAA==,astropy,Required
+gK8DlJs7W1gnTis0AAAAAA==,astroquery.mast,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,astrocut,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,Aladin Lite,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,Jupyter,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,pytest,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,unittest,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,ReadTheDocs,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,Sphinx,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,GitHub,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,PyPI,Preferred
+gK8DlJs7W1gnTis0AAAAAA==,conda,Preferred
+qDkqjzCA_H0I6Y5DAAAAAA==,Python,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,FastAPI,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,React,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,Next.js,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,REST,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,GraphQL,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,OAuth2,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,JWT,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,SSO,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,PostgreSQL,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,SQL,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,AWS,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,Azure,Required
+qDkqjzCA_H0I6Y5DAAAAAA==,AWS Lambda,Preferred
+qDkqjzCA_H0I6Y5DAAAAAA==,ECS,Preferred
+qDkqjzCA_H0I6Y5DAAAAAA==,S3,Preferred
+qDkqjzCA_H0I6Y5DAAAAAA==,RDS,Preferred
+qDkqjzCA_H0I6Y5DAAAAAA==,CloudFront,Preferred
+qDkqjzCA_H0I6Y5DAAAAAA==,API Gateway,Preferred
+qDkqjzCA_H0I6Y5DAAAAAA==,Docker,Preferred
+qDkqjzCA_H0I6Y5DAAAAAA==,Kubernetes,Preferred
+MzAMiAJpQwBdm4hEAAAAAA==,React,Required
+MzAMiAJpQwBdm4hEAAAAAA==,Redux,Required
+MzAMiAJpQwBdm4hEAAAAAA==,Node.js,Required
+MzAMiAJpQwBdm4hEAAAAAA==,Express.js,Required
+MzAMiAJpQwBdm4hEAAAAAA==,PostgreSQL,Required
+MzAMiAJpQwBdm4hEAAAAAA==,AWS,Required
+MzAMiAJpQwBdm4hEAAAAAA==,Docker,Required
+MzAMiAJpQwBdm4hEAAAAAA==,Kubernetes,Required
+MzAMiAJpQwBdm4hEAAAAAA==,GitLab,Required
+MzAMiAJpQwBdm4hEAAAAAA==,Qase,Required
+MzAMiAJpQwBdm4hEAAAAAA==,RESTful API,Required
+MzAMiAJpQwBdm4hEAAAAAA==,Google Maps API,Required
+MzAMiAJpQwBdm4hEAAAAAA==,Angular,Preferred
+F06B9hCd9_jjOPq6AAAAAA==,PL/SQL,Required
+F06B9hCd9_jjOPq6AAAAAA==,R,Required
+F06B9hCd9_jjOPq6AAAAAA==,Python,Required
+F06B9hCd9_jjOPq6AAAAAA==,Excel,Required
+F06B9hCd9_jjOPq6AAAAAA==,Power BI,Required
+F06B9hCd9_jjOPq6AAAAAA==,Oracle Analytics,Required
+Mm2KiK02X0gfqAx1AAAAAA==,Python,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,SQL,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,R,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,Spark,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,Databricks,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,TensorFlow,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,PyTorch,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,Scikit-Learn,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,Power BI,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,Tableau,Preferred
+Mm2KiK02X0gfqAx1AAAAAA==,Git,Preferred
+n4G47-tf_oRI1rX1AAAAAA==,Python,Required
+n4G47-tf_oRI1rX1AAAAAA==,TypeScript,Required
+n4G47-tf_oRI1rX1AAAAAA==,Vue,Required
+n4G47-tf_oRI1rX1AAAAAA==,React,Required
+n4G47-tf_oRI1rX1AAAAAA==,FastAPI,Required
+n4G47-tf_oRI1rX1AAAAAA==,Flask,Required
+n4G47-tf_oRI1rX1AAAAAA==,Django,Required
+n4G47-tf_oRI1rX1AAAAAA==,Azure,Required
+n4G47-tf_oRI1rX1AAAAAA==,Vue,Preferred
+n4G47-tf_oRI1rX1AAAAAA==,Azure,Preferred
+6SmpAYPYE8fOneT5AAAAAA==,Python,Required
+6SmpAYPYE8fOneT5AAAAAA==,Django,Required
+6SmpAYPYE8fOneT5AAAAAA==,Flask,Required
+6SmpAYPYE8fOneT5AAAAAA==,Cursor AI,Preferred
+jkZzjdiLEDSogrkiAAAAAA==,SQL,Required
+jkZzjdiLEDSogrkiAAAAAA==,Erwin,Required
+jkZzjdiLEDSogrkiAAAAAA==,ER/Studio,Required
+jkZzjdiLEDSogrkiAAAAAA==,Lucidchart,Required
+jkZzjdiLEDSogrkiAAAAAA==,Tableau,Preferred
+jkZzjdiLEDSogrkiAAAAAA==,Power BI,Preferred
+jkZzjdiLEDSogrkiAAAAAA==,Qlik,Preferred
+jkZzjdiLEDSogrkiAAAAAA==,Navy ERP,Preferred
+jkZzjdiLEDSogrkiAAAAAA==,SAP,Preferred
+gbouFT4rmSyh8LysAAAAAA==,.NET,Required
+gbouFT4rmSyh8LysAAAAAA==,Python,Required
+gbouFT4rmSyh8LysAAAAAA==,Graph Databases,Required
+gbouFT4rmSyh8LysAAAAAA==,Neo4j,Required
+gbouFT4rmSyh8LysAAAAAA==,Amazon Neptune,Required
+gbouFT4rmSyh8LysAAAAAA==,JanusGraph,Required
+gbouFT4rmSyh8LysAAAAAA==,TigerGraph,Required
+gbouFT4rmSyh8LysAAAAAA==,C#,Required
+gbouFT4rmSyh8LysAAAAAA==,ASP.NET Core,Required
+gbouFT4rmSyh8LysAAAAAA==,Cypher,Required
+gbouFT4rmSyh8LysAAAAAA==,Gremlin,Required
+gbouFT4rmSyh8LysAAAAAA==,SPARQL,Required
+gbouFT4rmSyh8LysAAAAAA==,RESTful APIs,Required
+gbouFT4rmSyh8LysAAAAAA==,Docker,Preferred
+gbouFT4rmSyh8LysAAAAAA==,Kubernetes,Preferred
+gbouFT4rmSyh8LysAAAAAA==,AWS,Preferred
+AmqBAt00GAd8g2emAAAAAA==,IREE,Required
+AmqBAt00GAd8g2emAAAAAA==,LLVM,Required
+AmqBAt00GAd8g2emAAAAAA==,MLIR,Required
+AmqBAt00GAd8g2emAAAAAA==,PyTorch,Required
+AmqBAt00GAd8g2emAAAAAA==,ONNX,Required
+AmqBAt00GAd8g2emAAAAAA==,TensorFlow Lite,Required
+AmqBAt00GAd8g2emAAAAAA==,TFLite,Required
+AmqBAt00GAd8g2emAAAAAA==,torch-mlir,Required
+AmqBAt00GAd8g2emAAAAAA==,TOSA,Required
+AmqBAt00GAd8g2emAAAAAA==,Linalg,Required
+AmqBAt00GAd8g2emAAAAAA==,C,Required
+AmqBAt00GAd8g2emAAAAAA==,C++,Required
+AmqBAt00GAd8g2emAAAAAA==,Python,Required
+AmqBAt00GAd8g2emAAAAAA==,Linux,Required
+AmqBAt00GAd8g2emAAAAAA==,RISC-V,Preferred
+AmqBAt00GAd8g2emAAAAAA==,ARM,Preferred
+AmqBAt00GAd8g2emAAAAAA==,x86,Preferred
+AmqBAt00GAd8g2emAAAAAA==,DSP,Preferred
+AmqBAt00GAd8g2emAAAAAA==,GPU,Preferred
+AmqBAt00GAd8g2emAAAAAA==,llama.cpp,Preferred
+AmqBAt00GAd8g2emAAAAAA==,GGML,Preferred
+AmqBAt00GAd8g2emAAAAAA==,GGUF,Preferred
+AmqBAt00GAd8g2emAAAAAA==,ONNX Runtime,Preferred
+AmqBAt00GAd8g2emAAAAAA==,TVM,Preferred
+AmqBAt00GAd8g2emAAAAAA==,XNNPACK,Preferred
+AmqBAt00GAd8g2emAAAAAA==,Jenkins,Preferred
+AmqBAt00GAd8g2emAAAAAA==,Git,Preferred
+AmqBAt00GAd8g2emAAAAAA==,CMake,Preferred
+AmqBAt00GAd8g2emAAAAAA==,Bazel,Preferred
+AmqBAt00GAd8g2emAAAAAA==,Jira,Preferred
+r37Ye0wU58yIrNwzAAAAAA==,Python,Required
+r37Ye0wU58yIrNwzAAAAAA==,FastAPI,Required
+r37Ye0wU58yIrNwzAAAAAA==,Flask,Required
+r37Ye0wU58yIrNwzAAAAAA==,Kafka,Required
+r37Ye0wU58yIrNwzAAAAAA==,Pub/Sub,Required
+r37Ye0wU58yIrNwzAAAAAA==,LangChain,Required
+r37Ye0wU58yIrNwzAAAAAA==,LangGraph,Required
+r37Ye0wU58yIrNwzAAAAAA==,CrewAI,Required
+r37Ye0wU58yIrNwzAAAAAA==,AutoGen,Required
+r37Ye0wU58yIrNwzAAAAAA==,Gemini,Required
+r37Ye0wU58yIrNwzAAAAAA==,OpenAI,Required
+r37Ye0wU58yIrNwzAAAAAA==,Claude,Required
+r37Ye0wU58yIrNwzAAAAAA==,React,Required
+r37Ye0wU58yIrNwzAAAAAA==,Django,Required
+r37Ye0wU58yIrNwzAAAAAA==,SQL,Required
+r37Ye0wU58yIrNwzAAAAAA==,Azure OpenAI,Required
+r37Ye0wU58yIrNwzAAAAAA==,Kubernetes,Preferred
+r37Ye0wU58yIrNwzAAAAAA==,Azure,Preferred
+r37Ye0wU58yIrNwzAAAAAA==,AWS,Preferred
+r37Ye0wU58yIrNwzAAAAAA==,GCP,Preferred
+r37Ye0wU58yIrNwzAAAAAA==,Microsoft Visual Studio Code,Preferred
+Tt7oKd5KvQ_sJPu4AAAAAA==,SQL,Required
+Tt7oKd5KvQ_sJPu4AAAAAA==,Python,Required
+Tt7oKd5KvQ_sJPu4AAAAAA==,Tableau,Required
+Tt7oKd5KvQ_sJPu4AAAAAA==,Power BI,Required
+Tt7oKd5KvQ_sJPu4AAAAAA==,SQL,Preferred
+Tt7oKd5KvQ_sJPu4AAAAAA==,Python,Preferred
+Tt7oKd5KvQ_sJPu4AAAAAA==,Spark,Preferred
+Tt7oKd5KvQ_sJPu4AAAAAA==,Scala,Preferred
+Tt7oKd5KvQ_sJPu4AAAAAA==,R,Preferred
+Tt7oKd5KvQ_sJPu4AAAAAA==,Power BI,Preferred
+Tt7oKd5KvQ_sJPu4AAAAAA==,Tableau,Preferred
+CVwNHUUDkRysfNWvAAAAAA==,SQL,Required
+kkBGFqr17Ojgif9aAAAAAA==,Ruby on Rails,Required
+kkBGFqr17Ojgif9aAAAAAA==,Postgres,Required
+kkBGFqr17Ojgif9aAAAAAA==,AWS,Required
+kkBGFqr17Ojgif9aAAAAAA==,Docker,Preferred
+kkBGFqr17Ojgif9aAAAAAA==,Kubernetes,Preferred
+kkBGFqr17Ojgif9aAAAAAA==,Golang,Preferred
+0kvJ6lOTFYVbZNwZAAAAAA==,Ruby on Rails,Required
+0kvJ6lOTFYVbZNwZAAAAAA==,React,Required
+0kvJ6lOTFYVbZNwZAAAAAA==,Java,Required
+0kvJ6lOTFYVbZNwZAAAAAA==,PostgreSQL,Required
+xn_a2C4oS7kuQkBrAAAAAA==,Java,Required
+xn_a2C4oS7kuQkBrAAAAAA==,Spring,Required
+xn_a2C4oS7kuQkBrAAAAAA==,Spring Boot,Required
+xn_a2C4oS7kuQkBrAAAAAA==,Microservices,Required
+xn_a2C4oS7kuQkBrAAAAAA==,REST APIs,Required
+xn_a2C4oS7kuQkBrAAAAAA==,Python,Required
+xn_a2C4oS7kuQkBrAAAAAA==,Flask,Required
+xn_a2C4oS7kuQkBrAAAAAA==,Django,Required
+xn_a2C4oS7kuQkBrAAAAAA==,SQL,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,MySQL,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,PostgreSQL,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,NoSQL,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,MongoDB,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,AWS,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,Azure,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,GCP,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,Docker,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,Kubernetes,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,Jenkins,Preferred
+xn_a2C4oS7kuQkBrAAAAAA==,CI/CD pipelines,Preferred
+-NLKoec0_2WArbtzAAAAAA==,Python,Required
+-NLKoec0_2WArbtzAAAAAA==,Django,Required
+-NLKoec0_2WArbtzAAAAAA==,Flask,Required
+-NLKoec0_2WArbtzAAAAAA==,HTML,Required
+-NLKoec0_2WArbtzAAAAAA==,CSS,Required
+-NLKoec0_2WArbtzAAAAAA==,JavaScript,Required
+-NLKoec0_2WArbtzAAAAAA==,MySQL,Required
+-NLKoec0_2WArbtzAAAAAA==,PostgreSQL,Required
+zD5n-wLd-Pq5RbioAAAAAA==,Python,Required
+zD5n-wLd-Pq5RbioAAAAAA==,LLMs,Required
+zD5n-wLd-Pq5RbioAAAAAA==,OpenAI,Required
+zD5n-wLd-Pq5RbioAAAAAA==,Azure OpenAI,Required
+zD5n-wLd-Pq5RbioAAAAAA==,Hugging Face,Required
+zD5n-wLd-Pq5RbioAAAAAA==,LangChain,Required
+zD5n-wLd-Pq5RbioAAAAAA==,LlamaIndex,Required
+zD5n-wLd-Pq5RbioAAAAAA==,Model Context Protocol (MCP),Required
+zD5n-wLd-Pq5RbioAAAAAA==,REST APIs,Required
+zD5n-wLd-Pq5RbioAAAAAA==,microservices,Required
+zD5n-wLd-Pq5RbioAAAAAA==,Pinecone,Required
+zD5n-wLd-Pq5RbioAAAAAA==,Weaviate,Required
+zD5n-wLd-Pq5RbioAAAAAA==,FAISS,Required
+zD5n-wLd-Pq5RbioAAAAAA==,Qdrant,Required
+zD5n-wLd-Pq5RbioAAAAAA==,Azure Cognitive Search,Required
+YNAMnppIEEkwbQlUAAAAAA==,Python,Required
+YNAMnppIEEkwbQlUAAAAAA==,NumPy,Preferred
+YNAMnppIEEkwbQlUAAAAAA==,SciPy,Preferred
+YNAMnppIEEkwbQlUAAAAAA==,scikit-learn,Preferred
+YNAMnppIEEkwbQlUAAAAAA==,TensorFlow,Preferred
+YNAMnppIEEkwbQlUAAAAAA==,PyTorch,Preferred
+YNAMnppIEEkwbQlUAAAAAA==,PySpark,Preferred
+YNAMnppIEEkwbQlUAAAAAA==,Hugging Face Transformers,Preferred
+YNAMnppIEEkwbQlUAAAAAA==,spaCy,Preferred
+n46KpOrrx9EGCY_sAAAAAA==,Excel,Required
+n46KpOrrx9EGCY_sAAAAAA==,SQL,Required
+n46KpOrrx9EGCY_sAAAAAA==,Python,Required
+n46KpOrrx9EGCY_sAAAAAA==,R,Required
+_9EdChq3Z1wgb99WAAAAAA==,Java,Required
+_9EdChq3Z1wgb99WAAAAAA==,Spring Boot,Required
+_9EdChq3Z1wgb99WAAAAAA==,Microservices,Required
+_9EdChq3Z1wgb99WAAAAAA==,Kafka,Required
+_9EdChq3Z1wgb99WAAAAAA==,MongoDB,Required
+_9EdChq3Z1wgb99WAAAAAA==,OCP,Required
+_9EdChq3Z1wgb99WAAAAAA==,Flink,Required
+_9EdChq3Z1wgb99WAAAAAA==,Spring Web,Required
+_9EdChq3Z1wgb99WAAAAAA==,JDK17+,Required
+_9EdChq3Z1wgb99WAAAAAA==,GitCo-Pilot,Required
+_9EdChq3Z1wgb99WAAAAAA==,Splunk,Required
+_9EdChq3Z1wgb99WAAAAAA==,Oracle DB,Required
+_9EdChq3Z1wgb99WAAAAAA==,Kubernetes,Required
+4fpbJSHwbHEY0P-yAAAAAA==,Python,Required
+4fpbJSHwbHEY0P-yAAAAAA==,HTML,Required
+4fpbJSHwbHEY0P-yAAAAAA==,CSS,Required
+4fpbJSHwbHEY0P-yAAAAAA==,JavaScript,Required
+4fpbJSHwbHEY0P-yAAAAAA==,Git,Required
+4fpbJSHwbHEY0P-yAAAAAA==,REST APIs,Required
+4fpbJSHwbHEY0P-yAAAAAA==,Cognigy,Preferred
+4fpbJSHwbHEY0P-yAAAAAA==,React,Preferred
+4fpbJSHwbHEY0P-yAAAAAA==,Angular,Preferred
+VYuTrhLcgeEjGMyaAAAAAA==,EHR,Required
+VYuTrhLcgeEjGMyaAAAAAA==,Electronic Health Record systems,Required
+lsmwof1kHbUheq5LAAAAAA==,Python,Required
+lsmwof1kHbUheq5LAAAAAA==,R,Required
+lsmwof1kHbUheq5LAAAAAA==,SQL,Required
+UqC8jQ04InWtPASkAAAAAA==,C#,Required
+UqC8jQ04InWtPASkAAAAAA==,ASP.NET MVC,Required
+UqC8jQ04InWtPASkAAAAAA==,MS SQL,Required
+UqC8jQ04InWtPASkAAAAAA==,AngularJS 2+,Required
+UqC8jQ04InWtPASkAAAAAA==,Angular,Required
+UqC8jQ04InWtPASkAAAAAA==,HTML,Required
+UqC8jQ04InWtPASkAAAAAA==,CSS,Required
+UqC8jQ04InWtPASkAAAAAA==,TypeScript,Required
+UqC8jQ04InWtPASkAAAAAA==,JavaScript,Required
+UqC8jQ04InWtPASkAAAAAA==,Bootstrap,Required
+UqC8jQ04InWtPASkAAAAAA==,JQuery,Required
+UqC8jQ04InWtPASkAAAAAA==,Entity Framework,Required
+UqC8jQ04InWtPASkAAAAAA==,Visual Studio,Required
+MCEjhLhABFo8Qll1AAAAAA==,C,Required
+MCEjhLhABFo8Qll1AAAAAA==,C++,Required
+MCEjhLhABFo8Qll1AAAAAA==,ARM Cortex-M,Required
+MCEjhLhABFo8Qll1AAAAAA==,STM32,Required
+MCEjhLhABFo8Qll1AAAAAA==,PIC,Required
+MCEjhLhABFo8Qll1AAAAAA==,I2C,Required
+MCEjhLhABFo8Qll1AAAAAA==,SPI,Required
+MCEjhLhABFo8Qll1AAAAAA==,UART,Required
+MCEjhLhABFo8Qll1AAAAAA==,USB,Required
+MCEjhLhABFo8Qll1AAAAAA==,BT,Required
+MCEjhLhABFo8Qll1AAAAAA==,BLE,Required
+MCEjhLhABFo8Qll1AAAAAA==,RTOS,Required
+WkB5Q8Lm9xVEO96HAAAAAA==,Linux,Required
+WkB5Q8Lm9xVEO96HAAAAAA==,Android,Required
+WkB5Q8Lm9xVEO96HAAAAAA==,DevOps,Required
+WkB5Q8Lm9xVEO96HAAAAAA==,embedded systems,Required
+WkB5Q8Lm9xVEO96HAAAAAA==,networking,Required
+WkB5Q8Lm9xVEO96HAAAAAA==,mixed reality,Preferred
+77gf04_5D9DHRGKIAAAAAA==,Python,Required
+77gf04_5D9DHRGKIAAAAAA==,Git,Required
+77gf04_5D9DHRGKIAAAAAA==,SQL,Required
+77gf04_5D9DHRGKIAAAAAA==,GCP,Preferred
+77gf04_5D9DHRGKIAAAAAA==,Google Cloud Platform,Preferred
+77gf04_5D9DHRGKIAAAAAA==,Microsoft Excel,Preferred
+77gf04_5D9DHRGKIAAAAAA==,MS Office,Preferred
+77gf04_5D9DHRGKIAAAAAA==,VBA,Preferred
+q9iaJI-nEphdAk1oAAAAAA==,Rust,Required
+q9iaJI-nEphdAk1oAAAAAA==,C++,Required
+q9iaJI-nEphdAk1oAAAAAA==,Python,Required
+q9iaJI-nEphdAk1oAAAAAA==,Nix,Preferred
+q9iaJI-nEphdAk1oAAAAAA==,NixOS,Preferred
+FDlUxSYdEklwYRqbAAAAAA==,Java,Required
+FDlUxSYdEklwYRqbAAAAAA==,Kubernetes,Required
+FDlUxSYdEklwYRqbAAAAAA==,Vert.x,Required
+FDlUxSYdEklwYRqbAAAAAA==,Spring Boot,Required
+FDlUxSYdEklwYRqbAAAAAA==,AWS,Required
+FDlUxSYdEklwYRqbAAAAAA==,Grafana,Required
+FDlUxSYdEklwYRqbAAAAAA==,Prometheus,Required
+FDlUxSYdEklwYRqbAAAAAA==,Telegraph,Required
+FDlUxSYdEklwYRqbAAAAAA==,PostgreSQL,Required
+FDlUxSYdEklwYRqbAAAAAA==,DynamoDB,Required
+FDlUxSYdEklwYRqbAAAAAA==,MongoDB,Required
+FDlUxSYdEklwYRqbAAAAAA==,Terraform,Required
+FDlUxSYdEklwYRqbAAAAAA==,API gateways,Required
+FDlUxSYdEklwYRqbAAAAAA==,service mesh,Required
+FDlUxSYdEklwYRqbAAAAAA==,infrastructure-as-code,Required
+FDlUxSYdEklwYRqbAAAAAA==,GCP,Preferred
+FDlUxSYdEklwYRqbAAAAAA==,Azure,Preferred
+dIPh35TFH83qexieAAAAAA==,dbt,Required
+dIPh35TFH83qexieAAAAAA==,Airflow,Required
+dIPh35TFH83qexieAAAAAA==,SQL,Required
+dIPh35TFH83qexieAAAAAA==,Python,Required
+ZulMsjaNI36mjXqVAAAAAA==,SQL,Required
+ZulMsjaNI36mjXqVAAAAAA==,R,Required
+ZulMsjaNI36mjXqVAAAAAA==,Python,Required
+lK7n5VvLO3q9HlYxAAAAAA==,SQL,Required
+lK7n5VvLO3q9HlYxAAAAAA==,Spreadsheets,Required
+lK7n5VvLO3q9HlYxAAAAAA==,CSV,Required
+lK7n5VvLO3q9HlYxAAAAAA==,APIs,Preferred
+lK7n5VvLO3q9HlYxAAAAAA==,BI platforms,Preferred
+QVv0chvpj0yRIseZAAAAAA==,BGP,Preferred
+QVv0chvpj0yRIseZAAAAAA==,YANG,Preferred
+QVv0chvpj0yRIseZAAAAAA==,SNMP,Preferred
+QVv0chvpj0yRIseZAAAAAA==,XML,Preferred
+QVv0chvpj0yRIseZAAAAAA==,Cisco IOS XR,Preferred
+QVv0chvpj0yRIseZAAAAAA==,Cisco IOS XE,Preferred
+QVv0chvpj0yRIseZAAAAAA==,Cisco NX-OS,Preferred
+B3h_zIT53tS3Kv4kAAAAAA==,Python,Required
+B3h_zIT53tS3Kv4kAAAAAA==,Pandas,Required
+B3h_zIT53tS3Kv4kAAAAAA==,NumPy,Required
+B3h_zIT53tS3Kv4kAAAAAA==,Scikit-learn,Required
+B3h_zIT53tS3Kv4kAAAAAA==,Matplotlib,Required
+B3h_zIT53tS3Kv4kAAAAAA==,Seaborn,Required
+B3h_zIT53tS3Kv4kAAAAAA==,SQL,Required
+B3h_zIT53tS3Kv4kAAAAAA==,Power BI,Required
+B3h_zIT53tS3Kv4kAAAAAA==,Tableau,Required
+B3h_zIT53tS3Kv4kAAAAAA==,Plotly,Required
+B3h_zIT53tS3Kv4kAAAAAA==,Azure AI,Required
+B3h_zIT53tS3Kv4kAAAAAA==,AWS SageMaker,Required
+B3h_zIT53tS3Kv4kAAAAAA==,GCP Vertex AI,Required
+B3h_zIT53tS3Kv4kAAAAAA==,LangChain,Preferred
+B3h_zIT53tS3Kv4kAAAAAA==,LlamaIndex,Preferred
+B3h_zIT53tS3Kv4kAAAAAA==,TensorFlow,Preferred
+B3h_zIT53tS3Kv4kAAAAAA==,PyTorch,Preferred
+B3h_zIT53tS3Kv4kAAAAAA==,Spark,Preferred
+B3h_zIT53tS3Kv4kAAAAAA==,Databricks,Preferred
+B3h_zIT53tS3Kv4kAAAAAA==,Hadoop,Preferred
+rwxa1FBnRM7H4ENQAAAAAA==,Python,Required
+rwxa1FBnRM7H4ENQAAAAAA==,Git,Required
+6l2Q7KRPvM7BERvzAAAAAA==,SQL,Required
+6l2Q7KRPvM7BERvzAAAAAA==,Python,Required
+6l2Q7KRPvM7BERvzAAAAAA==,R,Required
+6l2Q7KRPvM7BERvzAAAAAA==,SAS,Required
+6l2Q7KRPvM7BERvzAAAAAA==,Matlab,Required
+6l2Q7KRPvM7BERvzAAAAAA==,Python,Preferred
+6l2Q7KRPvM7BERvzAAAAAA==,Perl,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,C#,Required
+VoFMl5SmOfI_ku_HAAAAAA==,C++,Required
+VoFMl5SmOfI_ku_HAAAAAA==,DICOM,Required
+VoFMl5SmOfI_ku_HAAAAAA==,Azure DevOps Services,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,Git,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,JAMA,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,JIRA,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,AWS,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,WiX Toolset,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,Windows installer,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,NuGet,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,Microsoft .NET Framework,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,Visual Studio,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,CUDA,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,ARM,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,X86,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,SQLite,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,MongoDB,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,DynamoDB,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,Moq,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,MQTT,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,ONNX Runtime,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,HL7 FHIR,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,IEEE 11073,Preferred
+VoFMl5SmOfI_ku_HAAAAAA==,IHE,Preferred
+148JZGB8PI8Vrzm-AAAAAA==,Python,Required
+148JZGB8PI8Vrzm-AAAAAA==,JavaScript,Required
+148JZGB8PI8Vrzm-AAAAAA==,TypeScript,Required
+148JZGB8PI8Vrzm-AAAAAA==,Java,Required
+148JZGB8PI8Vrzm-AAAAAA==,C#,Required
+148JZGB8PI8Vrzm-AAAAAA==,Go,Required
+148JZGB8PI8Vrzm-AAAAAA==,pytest,Required
+148JZGB8PI8Vrzm-AAAAAA==,Jest,Required
+148JZGB8PI8Vrzm-AAAAAA==,JUnit,Required
+148JZGB8PI8Vrzm-AAAAAA==,xUnit,Required
+148JZGB8PI8Vrzm-AAAAAA==,Go testing,Required
+t0d9F88m4L1GZW4YAAAAAA==,Python,Required
+t0d9F88m4L1GZW4YAAAAAA==,R,Required
+t0d9F88m4L1GZW4YAAAAAA==,PySpark,Required
+t0d9F88m4L1GZW4YAAAAAA==,SQL,Required
+t0d9F88m4L1GZW4YAAAAAA==,scikit-learn,Required
+t0d9F88m4L1GZW4YAAAAAA==,TensorFlow,Required
+t0d9F88m4L1GZW4YAAAAAA==,PyTorch,Required
+t0d9F88m4L1GZW4YAAAAAA==,XGBoost,Required
+t0d9F88m4L1GZW4YAAAAAA==,Power BI,Required
+t0d9F88m4L1GZW4YAAAAAA==,Tableau,Required
+t0d9F88m4L1GZW4YAAAAAA==,Spark,Required
+t0d9F88m4L1GZW4YAAAAAA==,Hive,Required
+t0d9F88m4L1GZW4YAAAAAA==,LightGBM,Required
+DlKH6c2azEJ4BrciAAAAAA==,Kubernetes,Required
+DlKH6c2azEJ4BrciAAAAAA==,Go,Required
+DlKH6c2azEJ4BrciAAAAAA==,Python,Required
+DlKH6c2azEJ4BrciAAAAAA==,TypeScript,Required
+DlKH6c2azEJ4BrciAAAAAA==,Docker,Required
+DlKH6c2azEJ4BrciAAAAAA==,Helm,Required
+vExwXsyMVJKdvZysAAAAAA==,Kotlin,Required
+vExwXsyMVJKdvZysAAAAAA==,Kotlin Multiplatform,Required
+vExwXsyMVJKdvZysAAAAAA==,GCP,Preferred
+vExwXsyMVJKdvZysAAAAAA==,Java,Preferred
+cjJ76X4QjoMUeUwxAAAAAA==,TypeScript,Required
+cjJ76X4QjoMUeUwxAAAAAA==,Mocha,Required
+cjJ76X4QjoMUeUwxAAAAAA==,Jest,Required
+cjJ76X4QjoMUeUwxAAAAAA==,Node.js,Preferred
+cjJ76X4QjoMUeUwxAAAAAA==,PostgreSQL,Preferred
+cjJ76X4QjoMUeUwxAAAAAA==,Prisma,Preferred
+cjJ76X4QjoMUeUwxAAAAAA==,Drizzle,Preferred
+cjJ76X4QjoMUeUwxAAAAAA==,Knex,Preferred
+cjJ76X4QjoMUeUwxAAAAAA==,Docker,Preferred
+cjJ76X4QjoMUeUwxAAAAAA==,Kubernetes,Preferred
+Jc4iwVxEmUPAWereAAAAAA==,C#,Required
+Jc4iwVxEmUPAWereAAAAAA==,C++,Required
+Jc4iwVxEmUPAWereAAAAAA==,Java,Required
+Jc4iwVxEmUPAWereAAAAAA==,Python,Required
+Jc4iwVxEmUPAWereAAAAAA==,TCP/IP,Required
+Jc4iwVxEmUPAWereAAAAAA==,CAN,Required
+Jc4iwVxEmUPAWereAAAAAA==,UDP,Required
+Jc4iwVxEmUPAWereAAAAAA==,SQL,Required
+Jc4iwVxEmUPAWereAAAAAA==,XML,Required
+Jc4iwVxEmUPAWereAAAAAA==,WPF,Preferred
+Jc4iwVxEmUPAWereAAAAAA==,Cloud program development,Preferred
+3GKPwtG_T-mwGmHRAAAAAA==,Rust,Required
+3GKPwtG_T-mwGmHRAAAAAA==,C,Required
+3GKPwtG_T-mwGmHRAAAAAA==,C++,Required
+3GKPwtG_T-mwGmHRAAAAAA==,ARMv7 assembly,Required
+3GKPwtG_T-mwGmHRAAAAAA==,ARMv8 assembly,Required
+3GKPwtG_T-mwGmHRAAAAAA==,UART,Preferred
+3GKPwtG_T-mwGmHRAAAAAA==,I2C,Preferred
+3GKPwtG_T-mwGmHRAAAAAA==,SPI,Preferred
+3GKPwtG_T-mwGmHRAAAAAA==,eMMC,Preferred
+CfRx_T6QDECNmBMFAAAAAA==,R,Required
+CfRx_T6QDECNmBMFAAAAAA==,Python,Required
+CfRx_T6QDECNmBMFAAAAAA==,SQL,Required
+am4pbHpMyt-skNqBAAAAAA==,Python,Required
+am4pbHpMyt-skNqBAAAAAA==,Django,Required
+am4pbHpMyt-skNqBAAAAAA==,PostgreSQL,Required
+am4pbHpMyt-skNqBAAAAAA==,MySQL,Required
+am4pbHpMyt-skNqBAAAAAA==,FastAPI,Required
+am4pbHpMyt-skNqBAAAAAA==,Flask,Required
+am4pbHpMyt-skNqBAAAAAA==,Django REST Framework,Required
+am4pbHpMyt-skNqBAAAAAA==,Numpy,Required
+am4pbHpMyt-skNqBAAAAAA==,Pandas,Required
+am4pbHpMyt-skNqBAAAAAA==,React,Required
+am4pbHpMyt-skNqBAAAAAA==,OAuth 2.0,Required
+am4pbHpMyt-skNqBAAAAAA==,Git,Required
+am4pbHpMyt-skNqBAAAAAA==,Docker,Required
+am4pbHpMyt-skNqBAAAAAA==,AWS,Required
+am4pbHpMyt-skNqBAAAAAA==,Digital Ocean,Required
+am4pbHpMyt-skNqBAAAAAA==,Heroku,Required
+kiqfo1oyaCDbuVKUAAAAAA==,Tableau,Required
+kiqfo1oyaCDbuVKUAAAAAA==,Oracle SQL,Required
+kiqfo1oyaCDbuVKUAAAAAA==,Python,Required
+kiqfo1oyaCDbuVKUAAAAAA==,R,Required
+kiqfo1oyaCDbuVKUAAAAAA==,MS Excel,Required
+kiqfo1oyaCDbuVKUAAAAAA==,PowerPoint,Required
+kiqfo1oyaCDbuVKUAAAAAA==,Power BI,Preferred
+kiqfo1oyaCDbuVKUAAAAAA==,SQL,Preferred
+kiqfo1oyaCDbuVKUAAAAAA==,SSAS,Preferred
+kiqfo1oyaCDbuVKUAAAAAA==,Oracle DB,Preferred
+kiqfo1oyaCDbuVKUAAAAAA==,Alteryx,Preferred
+kiqfo1oyaCDbuVKUAAAAAA==,SAP FICO,Preferred
+kiqfo1oyaCDbuVKUAAAAAA==,SAP SD,Preferred
+kiqfo1oyaCDbuVKUAAAAAA==,SAP MM,Preferred
+OTOVb6qAVarSCkYbAAAAAA==,Python,Required
+OTOVb6qAVarSCkYbAAAAAA==,SQL Server,Required
+OTOVb6qAVarSCkYbAAAAAA==,RESTful APIs,Required
+OTOVb6qAVarSCkYbAAAAAA==,API,Required
+_YjYPsZrHorda4PgAAAAAA==,Python,Required
+_YjYPsZrHorda4PgAAAAAA==,Cirq,Preferred
+_YjYPsZrHorda4PgAAAAAA==,Qiskit,Preferred
+_YjYPsZrHorda4PgAAAAAA==,NumPy,Preferred
+_YjYPsZrHorda4PgAAAAAA==,SciPy,Preferred
+_YjYPsZrHorda4PgAAAAAA==,PyTorch,Preferred
+_YjYPsZrHorda4PgAAAAAA==,Rust,Preferred
+_YjYPsZrHorda4PgAAAAAA==,C++,Preferred
+_YjYPsZrHorda4PgAAAAAA==,SQL,Preferred
+_YjYPsZrHorda4PgAAAAAA==,PostgreSQL,Preferred
+_YjYPsZrHorda4PgAAAAAA==,FastAPI,Preferred
+_YjYPsZrHorda4PgAAAAAA==,SQLAlchemy,Preferred
+lI-dHRlscCSyxdSDAAAAAA==,SQL,Required
+lI-dHRlscCSyxdSDAAAAAA==,Excel,Required
+lI-dHRlscCSyxdSDAAAAAA==,Power BI,Required
+lI-dHRlscCSyxdSDAAAAAA==,Tableau,Required
+lI-dHRlscCSyxdSDAAAAAA==,Adobe Analytics,Required
+lI-dHRlscCSyxdSDAAAAAA==,Python,Preferred
+lI-dHRlscCSyxdSDAAAAAA==,Pandas,Preferred
+lI-dHRlscCSyxdSDAAAAAA==,LangSmith,Preferred
+lI-dHRlscCSyxdSDAAAAAA==,Arize,Preferred
+lI-dHRlscCSyxdSDAAAAAA==,AWS,Preferred
+lI-dHRlscCSyxdSDAAAAAA==,DynamoDB,Preferred
+lI-dHRlscCSyxdSDAAAAAA==,CloudWatch,Preferred
+FZsZystQO9UBpXkhAAAAAA==,Python,Required
+FZsZystQO9UBpXkhAAAAAA==,Pandas,Required
+FZsZystQO9UBpXkhAAAAAA==,NumPy,Required
+FZsZystQO9UBpXkhAAAAAA==,Statsmodels,Required
+FZsZystQO9UBpXkhAAAAAA==,Scikit-learn,Required
+FZsZystQO9UBpXkhAAAAAA==,SQL,Required
+FZsZystQO9UBpXkhAAAAAA==,LLMs,Preferred
+FZsZystQO9UBpXkhAAAAAA==,FAISS,Preferred
+FZsZystQO9UBpXkhAAAAAA==,Pinecone,Preferred
+FZsZystQO9UBpXkhAAAAAA==,Chroma,Preferred
+FZsZystQO9UBpXkhAAAAAA==,LangChain,Preferred
+FZsZystQO9UBpXkhAAAAAA==,LlamaIndex,Preferred
+FZsZystQO9UBpXkhAAAAAA==,AWS,Preferred
+FZsZystQO9UBpXkhAAAAAA==,Azure,Preferred
+y1s5FAC2WsEfEAeYAAAAAA==,SQL,Required
+y1s5FAC2WsEfEAeYAAAAAA==,NoSQL,Required
+y1s5FAC2WsEfEAeYAAAAAA==,Erwin,Required
+y1s5FAC2WsEfEAeYAAAAAA==,Python,Required
+y1s5FAC2WsEfEAeYAAAAAA==,PySpark,Required
+_Ib46NZoDoT0Ddg3AAAAAA==,SQL,Required
+_Ib46NZoDoT0Ddg3AAAAAA==,Python,Required
+_Ib46NZoDoT0Ddg3AAAAAA==,R,Required
+_Ib46NZoDoT0Ddg3AAAAAA==,SAS,Required
+_Ib46NZoDoT0Ddg3AAAAAA==,Matlab,Required
+_Ib46NZoDoT0Ddg3AAAAAA==,Python,Preferred
+_Ib46NZoDoT0Ddg3AAAAAA==,Perl,Preferred
+jBdoa_8Nky34u5KEAAAAAA==,Python,Preferred
+jBdoa_8Nky34u5KEAAAAAA==,Rust,Preferred
+jBdoa_8Nky34u5KEAAAAAA==,Kubernetes,Preferred
+jBdoa_8Nky34u5KEAAAAAA==,Docker,Preferred
+jBdoa_8Nky34u5KEAAAAAA==,gRPC,Preferred
+jBdoa_8Nky34u5KEAAAAAA==,REST,Preferred
+8fnjmRA9geXXITc9AAAAAA==,Java,Required
+8fnjmRA9geXXITc9AAAAAA==,Microservices,Required
+8fnjmRA9geXXITc9AAAAAA==,React,Required
+8fnjmRA9geXXITc9AAAAAA==,Angular,Required
+8fnjmRA9geXXITc9AAAAAA==,Spring Boot,Required
+8fnjmRA9geXXITc9AAAAAA==,Java,Preferred
+8fnjmRA9geXXITc9AAAAAA==,J2EE,Preferred
+8fnjmRA9geXXITc9AAAAAA==,Spring Boot,Preferred
+8fnjmRA9geXXITc9AAAAAA==,Hibernate,Preferred
+8fnjmRA9geXXITc9AAAAAA==,JPA,Preferred
+8fnjmRA9geXXITc9AAAAAA==,Angular,Preferred
+8fnjmRA9geXXITc9AAAAAA==,React,Preferred
+8fnjmRA9geXXITc9AAAAAA==,Javascript,Preferred
+8fnjmRA9geXXITc9AAAAAA==,jQuery,Preferred
+8fnjmRA9geXXITc9AAAAAA==,CSS,Preferred
+8fnjmRA9geXXITc9AAAAAA==,HTML,Preferred
+8fnjmRA9geXXITc9AAAAAA==,Postgres,Preferred
+8fnjmRA9geXXITc9AAAAAA==,SQL,Preferred
+Mw5KPNqwjpgbOga_AAAAAA==,Python,Required
+Mw5KPNqwjpgbOga_AAAAAA==,LLMs,Required
+Mw5KPNqwjpgbOga_AAAAAA==,Generative AI,Required
+Mw5KPNqwjpgbOga_AAAAAA==,Vector databases,Required
+Mw5KPNqwjpgbOga_AAAAAA==,Embedding pipelines,Required
+cH6wfgqxxS52re3YAAAAAA==,GA4,Required
+cH6wfgqxxS52re3YAAAAAA==,BigQuery,Required
+cH6wfgqxxS52re3YAAAAAA==,SQL,Required
+cH6wfgqxxS52re3YAAAAAA==,Python,Required
+cH6wfgqxxS52re3YAAAAAA==,R,Required
+cH6wfgqxxS52re3YAAAAAA==,SAS,Required
+cH6wfgqxxS52re3YAAAAAA==,Looker,Required
+cH6wfgqxxS52re3YAAAAAA==,Tableau,Required
+cH6wfgqxxS52re3YAAAAAA==,Google Data Studio,Required
+cH6wfgqxxS52re3YAAAAAA==,Klaviyo,Preferred
+pDha73g8oTmwb1RpAAAAAA==,Python,Required
+pDha73g8oTmwb1RpAAAAAA==,SQL,Required
+pDha73g8oTmwb1RpAAAAAA==,Snowflake,Required
+pDha73g8oTmwb1RpAAAAAA==,BigQuery,Preferred
+pDha73g8oTmwb1RpAAAAAA==,Redshift,Preferred
+pDha73g8oTmwb1RpAAAAAA==,Spark,Preferred
+arUqXe2ENbXuzpMXAAAAAA==,Java,Required
+arUqXe2ENbXuzpMXAAAAAA==,C++,Required
+arUqXe2ENbXuzpMXAAAAAA==,Gitlab,Required
+arUqXe2ENbXuzpMXAAAAAA==,Eclipse RCP,Preferred
+arUqXe2ENbXuzpMXAAAAAA==,Eclipse OSGi,Preferred
+arUqXe2ENbXuzpMXAAAAAA==,Swing,Preferred
+arUqXe2ENbXuzpMXAAAAAA==,SWT,Preferred
+arUqXe2ENbXuzpMXAAAAAA==,Python,Preferred
+arUqXe2ENbXuzpMXAAAAAA==,TensorFlow,Preferred
+1H0GaukeDE4gg5DGAAAAAA==,R,Required
+1H0GaukeDE4gg5DGAAAAAA==,SQL,Required
+1H0GaukeDE4gg5DGAAAAAA==,Stata,Required
+F41L2P74hu2SFtp3AAAAAA==,C++,Required
+F41L2P74hu2SFtp3AAAAAA==,Windows,Required
+F41L2P74hu2SFtp3AAAAAA==,Linux,Required
+F41L2P74hu2SFtp3AAAAAA==,Jira,Preferred
+F41L2P74hu2SFtp3AAAAAA==,DevOps,Preferred
+VTKXNFTYZikagD2UAAAAAA==,Python,Required
+VTKXNFTYZikagD2UAAAAAA==,R,Required
+VTKXNFTYZikagD2UAAAAAA==,TensorFlow,Required
+VTKXNFTYZikagD2UAAAAAA==,PyTorch,Required
+VTKXNFTYZikagD2UAAAAAA==,Scikit-learn,Required
+VTKXNFTYZikagD2UAAAAAA==,Pandas,Required
+ilUWcmw-84znPeeJAAAAAA==,React,Required
+ilUWcmw-84znPeeJAAAAAA==,Typescript,Required
+ilUWcmw-84znPeeJAAAAAA==,Javascript,Required
+ilUWcmw-84znPeeJAAAAAA==,Python,Required
+ilUWcmw-84znPeeJAAAAAA==,Node.js,Required
+ilUWcmw-84znPeeJAAAAAA==,Express,Required
+ilUWcmw-84znPeeJAAAAAA==,AWS Lambda,Required
+ilUWcmw-84znPeeJAAAAAA==,REST,Required
+ilUWcmw-84znPeeJAAAAAA==,API Gateway,Required
+ilUWcmw-84znPeeJAAAAAA==,DynamoDB,Required
+ilUWcmw-84znPeeJAAAAAA==,Amazon Aurora,Required
+ilUWcmw-84znPeeJAAAAAA==,AWS CodeCommit,Required
+ilUWcmw-84znPeeJAAAAAA==,Git,Required
+ilUWcmw-84znPeeJAAAAAA==,GitHub,Required
+ilUWcmw-84znPeeJAAAAAA==,SVN,Required
+ilUWcmw-84znPeeJAAAAAA==,CDK,Preferred
+ilUWcmw-84znPeeJAAAAAA==,AWS Bedrock,Preferred
+ilUWcmw-84znPeeJAAAAAA==,Material Design,Preferred
+ilUWcmw-84znPeeJAAAAAA==,Material-UI,Preferred
+ilUWcmw-84znPeeJAAAAAA==,ECS,Preferred
+ilUWcmw-84znPeeJAAAAAA==,Docker,Preferred
+ilUWcmw-84znPeeJAAAAAA==,Kafka,Preferred
+ilUWcmw-84znPeeJAAAAAA==,Kinesis,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,Python,Required
+SxkRlNHiG72hLTwVAAAAAA==,Plotly Dash Enterprise,Required
+SxkRlNHiG72hLTwVAAAAAA==,SQL,Required
+SxkRlNHiG72hLTwVAAAAAA==,Polars,Required
+SxkRlNHiG72hLTwVAAAAAA==,NumPy,Required
+SxkRlNHiG72hLTwVAAAAAA==,Pandas,Required
+SxkRlNHiG72hLTwVAAAAAA==,XML,Required
+SxkRlNHiG72hLTwVAAAAAA==,JSON,Required
+SxkRlNHiG72hLTwVAAAAAA==,YAML,Required
+SxkRlNHiG72hLTwVAAAAAA==,Copilot,Required
+SxkRlNHiG72hLTwVAAAAAA==,Claude,Required
+SxkRlNHiG72hLTwVAAAAAA==,Git,Required
+SxkRlNHiG72hLTwVAAAAAA==,Redis,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,PostgreSQL,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,Celery,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,XlsxWriter,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,REACT,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,HTML,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,CSS,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,GCP,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,Azure,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,AWS,Preferred
+SxkRlNHiG72hLTwVAAAAAA==,DBT,Preferred
+7k9iwL48FIXzYa4ZAAAAAA==,Microsoft Excel,Required
+7k9iwL48FIXzYa4ZAAAAAA==,VBA,Required
+7k9iwL48FIXzYa4ZAAAAAA==,Minitab,Required
+7k9iwL48FIXzYa4ZAAAAAA==,Power BI,Required
+7k9iwL48FIXzYa4ZAAAAAA==,Tableau,Required
+Wxq-1SKFL7Jb6JUfAAAAAA==,C,Preferred
+Wxq-1SKFL7Jb6JUfAAAAAA==,C++,Preferred
+Wxq-1SKFL7Jb6JUfAAAAAA==,Linux,Preferred
+Wxq-1SKFL7Jb6JUfAAAAAA==,Network switches,Preferred
+Wxq-1SKFL7Jb6JUfAAAAAA==,Kubernetes,Preferred
+Wxq-1SKFL7Jb6JUfAAAAAA==,Docker,Preferred
+Wxq-1SKFL7Jb6JUfAAAAAA==,Containerization,Preferred
+Wxq-1SKFL7Jb6JUfAAAAAA==,Synergy,Preferred
+Wxq-1SKFL7Jb6JUfAAAAAA==,GitLab,Preferred
+a9tL5ZxhNd6vCccnAAAAAA==,Python,Required
+a9tL5ZxhNd6vCccnAAAAAA==,Matlab,Required
+a9tL5ZxhNd6vCccnAAAAAA==,SQL,Required
+a9tL5ZxhNd6vCccnAAAAAA==,Power BI,Required
+a9tL5ZxhNd6vCccnAAAAAA==,Tableau,Required
+a9tL5ZxhNd6vCccnAAAAAA==,Grafana,Required
+1lIIglxOOAsT1u2vAAAAAA==,TensorFlow,Required
+1lIIglxOOAsT1u2vAAAAAA==,PyTorch,Required
+1lIIglxOOAsT1u2vAAAAAA==,scikit-learn,Required
+1lIIglxOOAsT1u2vAAAAAA==,NumPy,Required
+1lIIglxOOAsT1u2vAAAAAA==,Pandas,Required
+1lIIglxOOAsT1u2vAAAAAA==,statsmodels,Required
+1lIIglxOOAsT1u2vAAAAAA==,Theano,Required
+1lIIglxOOAsT1u2vAAAAAA==,XGBoost,Required
+1lIIglxOOAsT1u2vAAAAAA==,AWS,Preferred
+nQf5dnvTKUfak5HUAAAAAA==,Python,Required
+nQf5dnvTKUfak5HUAAAAAA==,SQL,Required
+nQf5dnvTKUfak5HUAAAAAA==,Spark,Required
+nQf5dnvTKUfak5HUAAAAAA==,PySpark,Required
+nQf5dnvTKUfak5HUAAAAAA==,TensorFlow,Required
+nQf5dnvTKUfak5HUAAAAAA==,Hadoop,Preferred
+nQf5dnvTKUfak5HUAAAAAA==,Hive,Preferred
+nQf5dnvTKUfak5HUAAAAAA==,MySQL,Preferred
+UXD5YnlyFaetlO4dAAAAAA==,Java,Required
+UXD5YnlyFaetlO4dAAAAAA==,Python,Required
+UXD5YnlyFaetlO4dAAAAAA==,C,Required
+UXD5YnlyFaetlO4dAAAAAA==,C++,Required
+iYZa_veY2PAuV5C6AAAAAA==,Python,Required
+iYZa_veY2PAuV5C6AAAAAA==,Linux,Preferred
+iYZa_veY2PAuV5C6AAAAAA==,SONiC,Preferred
+iYZa_veY2PAuV5C6AAAAAA==,IOS-XR,Preferred
+iYZa_veY2PAuV5C6AAAAAA==,FBOSS,Preferred
+iYZa_veY2PAuV5C6AAAAAA==,VXLAN,Preferred
+iYZa_veY2PAuV5C6AAAAAA==,MACsec,Preferred
+iYZa_veY2PAuV5C6AAAAAA==,Git,Preferred
+iYZa_veY2PAuV5C6AAAAAA==,Jira,Preferred
+iYZa_veY2PAuV5C6AAAAAA==,Ixia,Preferred
+iYZa_veY2PAuV5C6AAAAAA==,Spirent,Preferred
+aWla3mbkZhwvm83TAAAAAA==,C#,Required
+aWla3mbkZhwvm83TAAAAAA==,LINQ,Required
+aWla3mbkZhwvm83TAAAAAA==,SQL,Required
+aWla3mbkZhwvm83TAAAAAA==,Unit Testing,Required
+aWla3mbkZhwvm83TAAAAAA==,.NET,Required
+aWla3mbkZhwvm83TAAAAAA==,JavaScript,Required
+aWla3mbkZhwvm83TAAAAAA==,HTML,Required
+aWla3mbkZhwvm83TAAAAAA==,Knockout,Preferred
+aWla3mbkZhwvm83TAAAAAA==,Angular,Preferred
+aWla3mbkZhwvm83TAAAAAA==,Azure CosmosDB,Preferred
+aWla3mbkZhwvm83TAAAAAA==,NoSQL,Preferred
+u_LTvMzPdQMMC0LTAAAAAA==,Python,Required
+u_LTvMzPdQMMC0LTAAAAAA==,PyTorch,Required
+u_LTvMzPdQMMC0LTAAAAAA==,TensorFlow,Required
+u_LTvMzPdQMMC0LTAAAAAA==,SQL,Required
+u_LTvMzPdQMMC0LTAAAAAA==,Spark,Preferred
+u_LTvMzPdQMMC0LTAAAAAA==,Databricks,Preferred
+u_LTvMzPdQMMC0LTAAAAAA==,Ray,Preferred
+u_LTvMzPdQMMC0LTAAAAAA==,Kubernetes,Preferred
+u_LTvMzPdQMMC0LTAAAAAA==,AWS,Preferred
+u_LTvMzPdQMMC0LTAAAAAA==,Azure,Preferred
+u_LTvMzPdQMMC0LTAAAAAA==,GCP,Preferred
+JN_CoxBtNi-BPpHdAAAAAA==,Python,Required
+JN_CoxBtNi-BPpHdAAAAAA==,Java,Required
+JN_CoxBtNi-BPpHdAAAAAA==,Spring Boot,Required
+JN_CoxBtNi-BPpHdAAAAAA==,Agent2Agent Protocol,Required
+JN_CoxBtNi-BPpHdAAAAAA==,Model Context Protocol,Required
+JN_CoxBtNi-BPpHdAAAAAA==,Google Cloud,Required
+JN_CoxBtNi-BPpHdAAAAAA==,Microservices,Required
+wtG2ka8QlFqS5wAkAAAAAA==,SQL,Required
+wtG2ka8QlFqS5wAkAAAAAA==,Google Analytics,Required
+wtG2ka8QlFqS5wAkAAAAAA==,Python,Preferred
+wtG2ka8QlFqS5wAkAAAAAA==,pandas,Preferred
+wtG2ka8QlFqS5wAkAAAAAA==,Tableau,Preferred
+wtG2ka8QlFqS5wAkAAAAAA==,Mixpanel,Preferred
+wtG2ka8QlFqS5wAkAAAAAA==,Git,Preferred
+wtG2ka8QlFqS5wAkAAAAAA==,Snowflake,Preferred
+wtG2ka8QlFqS5wAkAAAAAA==,BigQuery,Preferred
+k1bXxtbh4X9V9Ge0AAAAAA==,python,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,fastapi,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,django,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,react,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,typescript,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,hl7,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,fhir,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,postgresql,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,oauth2,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,jwt,Required
+k1bXxtbh4X9V9Ge0AAAAAA==,angular/vue,Preferred
+k1bXxtbh4X9V9Ge0AAAAAA==,aws,Preferred
+k1bXxtbh4X9V9Ge0AAAAAA==,azure,Preferred
+k1bXxtbh4X9V9Ge0AAAAAA==,docker,Preferred
+k1bXxtbh4X9V9Ge0AAAAAA==,k8s,Preferred
+k1bXxtbh4X9V9Ge0AAAAAA==,elk,Preferred
+k1bXxtbh4X9V9Ge0AAAAAA==,prometheus,Preferred
