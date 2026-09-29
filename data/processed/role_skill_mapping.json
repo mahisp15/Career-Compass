@@ -1,0 +1,2667 @@
+{
+  "role_skill_mapping": {
+    "AI Engineering|AI Agent Developer": {
+      "category": "AI Engineering",
+      "role": "AI Agent Developer",
+      "skills": [
+        {
+          "skill": "Python",
+          "frequency": 49
+        },
+        {
+          "skill": "APIs",
+          "frequency": 44
+        },
+        {
+          "skill": "AutoGen",
+          "frequency": 44
+        },
+        {
+          "skill": "Tool Use",
+          "frequency": 44
+        },
+        {
+          "skill": "Planning Systems",
+          "frequency": 42
+        },
+        {
+          "skill": "LangChain",
+          "frequency": 39
+        },
+        {
+          "skill": "Git",
+          "frequency": 15
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 13
+        },
+        {
+          "skill": "Linux",
+          "frequency": 13
+        },
+        {
+          "skill": "SQL",
+          "frequency": 12
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 12
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 11
+        },
+        {
+          "skill": "Agile",
+          "frequency": 11
+        },
+        {
+          "skill": "Communication",
+          "frequency": 10
+        },
+        {
+          "skill": "Research",
+          "frequency": 8
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 6
+        }
+      ],
+      "total_postings": 373
+    },
+    "AI Engineering|Prompt Engineer": {
+      "category": "AI Engineering",
+      "role": "Prompt Engineer",
+      "skills": [
+        {
+          "skill": "Documentation",
+          "frequency": 59
+        },
+        {
+          "skill": "NLP",
+          "frequency": 55
+        },
+        {
+          "skill": "LLM APIs",
+          "frequency": 53
+        },
+        {
+          "skill": "Testing",
+          "frequency": 53
+        },
+        {
+          "skill": "Python",
+          "frequency": 52
+        },
+        {
+          "skill": "Prompt Design",
+          "frequency": 48
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 21
+        },
+        {
+          "skill": "Linux",
+          "frequency": 19
+        },
+        {
+          "skill": "SQL",
+          "frequency": 15
+        },
+        {
+          "skill": "Research",
+          "frequency": 14
+        },
+        {
+          "skill": "Agile",
+          "frequency": 14
+        },
+        {
+          "skill": "Git",
+          "frequency": 14
+        },
+        {
+          "skill": "Communication",
+          "frequency": 13
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 13
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 13
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 11
+        }
+      ],
+      "total_postings": 467
+    },
+    "AI Engineering|LLM Engineer": {
+      "category": "AI Engineering",
+      "role": "LLM Engineer",
+      "skills": [
+        {
+          "skill": "RAG",
+          "frequency": 63
+        },
+        {
+          "skill": "Fine-tuning",
+          "frequency": 59
+        },
+        {
+          "skill": "Python",
+          "frequency": 57
+        },
+        {
+          "skill": "Prompt Engineering",
+          "frequency": 55
+        },
+        {
+          "skill": "Vector DBs",
+          "frequency": 54
+        },
+        {
+          "skill": "LLM APIs",
+          "frequency": 50
+        },
+        {
+          "skill": "Communication",
+          "frequency": 21
+        },
+        {
+          "skill": "Research",
+          "frequency": 20
+        },
+        {
+          "skill": "Linux",
+          "frequency": 16
+        },
+        {
+          "skill": "Git",
+          "frequency": 15
+        },
+        {
+          "skill": "SQL",
+          "frequency": 14
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 14
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 13
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 13
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 12
+        },
+        {
+          "skill": "Agile",
+          "frequency": 11
+        }
+      ],
+      "total_postings": 487
+    },
+    "Data Engineering|Data Engineer (AI)": {
+      "category": "Data Engineering",
+      "role": "Data Engineer (AI)",
+      "skills": [
+        {
+          "skill": "SQL",
+          "frequency": 39
+        },
+        {
+          "skill": "Feature Stores",
+          "frequency": 38
+        },
+        {
+          "skill": "Airflow",
+          "frequency": 36
+        },
+        {
+          "skill": "dbt",
+          "frequency": 36
+        },
+        {
+          "skill": "Python",
+          "frequency": 36
+        },
+        {
+          "skill": "ETL",
+          "frequency": 33
+        },
+        {
+          "skill": "Spark",
+          "frequency": 31
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 14
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 14
+        },
+        {
+          "skill": "Git",
+          "frequency": 14
+        },
+        {
+          "skill": "Linux",
+          "frequency": 12
+        },
+        {
+          "skill": "Communication",
+          "frequency": 11
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 8
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 7
+        },
+        {
+          "skill": "Research",
+          "frequency": 4
+        }
+      ],
+      "total_postings": 343
+    },
+    "Product|AI Product Manager": {
+      "category": "Product",
+      "role": "AI Product Manager",
+      "skills": [
+        {
+          "skill": "Agile",
+          "frequency": 63
+        },
+        {
+          "skill": "Data Analysis",
+          "frequency": 61
+        },
+        {
+          "skill": "Stakeholder Mgmt",
+          "frequency": 61
+        },
+        {
+          "skill": "Product Strategy",
+          "frequency": 57
+        },
+        {
+          "skill": "AI Literacy",
+          "frequency": 55
+        },
+        {
+          "skill": "Linux",
+          "frequency": 21
+        },
+        {
+          "skill": "Git",
+          "frequency": 20
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 19
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 18
+        },
+        {
+          "skill": "Communication",
+          "frequency": 15
+        },
+        {
+          "skill": "Research",
+          "frequency": 14
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 12
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 10
+        },
+        {
+          "skill": "SQL",
+          "frequency": 8
+        }
+      ],
+      "total_postings": 434
+    },
+    "Security|AI Security Engineer": {
+      "category": "Security",
+      "role": "AI Security Engineer",
+      "skills": [
+        {
+          "skill": "Risk Analysis",
+          "frequency": 44
+        },
+        {
+          "skill": "Cybersecurity",
+          "frequency": 43
+        },
+        {
+          "skill": "ML Security",
+          "frequency": 43
+        },
+        {
+          "skill": "Red Teaming",
+          "frequency": 42
+        },
+        {
+          "skill": "Python",
+          "frequency": 36
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 14
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 14
+        },
+        {
+          "skill": "Communication",
+          "frequency": 11
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 11
+        },
+        {
+          "skill": "Git",
+          "frequency": 10
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "SQL",
+          "frequency": 10
+        },
+        {
+          "skill": "Linux",
+          "frequency": 9
+        },
+        {
+          "skill": "Research",
+          "frequency": 5
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 4
+        }
+      ],
+      "total_postings": 306
+    },
+    "AI Engineering|Senior ML Engineer": {
+      "category": "AI Engineering",
+      "role": "Senior ML Engineer",
+      "skills": [
+        {
+          "skill": "System Design",
+          "frequency": 52
+        },
+        {
+          "skill": "Distributed Systems",
+          "frequency": 51
+        },
+        {
+          "skill": "MLOps",
+          "frequency": 50
+        },
+        {
+          "skill": "Python",
+          "frequency": 50
+        },
+        {
+          "skill": "PyTorch",
+          "frequency": 45
+        },
+        {
+          "skill": "LLM Fine-tuning",
+          "frequency": 42
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 19
+        },
+        {
+          "skill": "SQL",
+          "frequency": 18
+        },
+        {
+          "skill": "Agile",
+          "frequency": 17
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 16
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 16
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 13
+        },
+        {
+          "skill": "Git",
+          "frequency": 13
+        },
+        {
+          "skill": "Communication",
+          "frequency": 10
+        },
+        {
+          "skill": "Linux",
+          "frequency": 10
+        },
+        {
+          "skill": "Research",
+          "frequency": 9
+        }
+      ],
+      "total_postings": 431
+    },
+    "AI Engineering|NLP Engineer": {
+      "category": "AI Engineering",
+      "role": "NLP Engineer",
+      "skills": [
+        {
+          "skill": "Transformers",
+          "frequency": 44
+        },
+        {
+          "skill": "Hugging Face",
+          "frequency": 42
+        },
+        {
+          "skill": "Python",
+          "frequency": 41
+        },
+        {
+          "skill": "LLMs",
+          "frequency": 40
+        },
+        {
+          "skill": "BERT",
+          "frequency": 39
+        },
+        {
+          "skill": "Text Processing",
+          "frequency": 37
+        },
+        {
+          "skill": "Research",
+          "frequency": 18
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 14
+        },
+        {
+          "skill": "SQL",
+          "frequency": 14
+        },
+        {
+          "skill": "Linux",
+          "frequency": 14
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 14
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 11
+        },
+        {
+          "skill": "Communication",
+          "frequency": 10
+        },
+        {
+          "skill": "Agile",
+          "frequency": 9
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 8
+        },
+        {
+          "skill": "Git",
+          "frequency": 6
+        }
+      ],
+      "total_postings": 361
+    },
+    "Architecture|AI Solutions Architect": {
+      "category": "Architecture",
+      "role": "AI Solutions Architect",
+      "skills": [
+        {
+          "skill": "System Design",
+          "frequency": 44
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 42
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 42
+        },
+        {
+          "skill": "ML",
+          "frequency": 39
+        },
+        {
+          "skill": "Python",
+          "frequency": 36
+        },
+        {
+          "skill": "Enterprise Architecture",
+          "frequency": 31
+        },
+        {
+          "skill": "Linux",
+          "frequency": 16
+        },
+        {
+          "skill": "SQL",
+          "frequency": 13
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 12
+        },
+        {
+          "skill": "Agile",
+          "frequency": 9
+        },
+        {
+          "skill": "Communication",
+          "frequency": 8
+        },
+        {
+          "skill": "Research",
+          "frequency": 7
+        },
+        {
+          "skill": "Git",
+          "frequency": 6
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 5
+        }
+      ],
+      "total_postings": 310
+    },
+    "AI Engineering|ML Engineer": {
+      "category": "AI Engineering",
+      "role": "ML Engineer",
+      "skills": [
+        {
+          "skill": "SQL",
+          "frequency": 46
+        },
+        {
+          "skill": "Kubernetes",
+          "frequency": 45
+        },
+        {
+          "skill": "PyTorch",
+          "frequency": 42
+        },
+        {
+          "skill": "TensorFlow",
+          "frequency": 41
+        },
+        {
+          "skill": "Python",
+          "frequency": 39
+        },
+        {
+          "skill": "MLOps",
+          "frequency": 38
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 16
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 15
+        },
+        {
+          "skill": "Linux",
+          "frequency": 13
+        },
+        {
+          "skill": "Research",
+          "frequency": 12
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 11
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 11
+        },
+        {
+          "skill": "Git",
+          "frequency": 10
+        },
+        {
+          "skill": "Communication",
+          "frequency": 9
+        },
+        {
+          "skill": "Agile",
+          "frequency": 8
+        }
+      ],
+      "total_postings": 356
+    },
+    "AI Engineering|Generative AI Engineer": {
+      "category": "AI Engineering",
+      "role": "Generative AI Engineer",
+      "skills": [
+        {
+          "skill": "GenAI APIs",
+          "frequency": 58
+        },
+        {
+          "skill": "Python",
+          "frequency": 56
+        },
+        {
+          "skill": "Diffusion Models",
+          "frequency": 55
+        },
+        {
+          "skill": "Deployment",
+          "frequency": 53
+        },
+        {
+          "skill": "Fine-tuning",
+          "frequency": 51
+        },
+        {
+          "skill": "LLMs",
+          "frequency": 49
+        },
+        {
+          "skill": "Linux",
+          "frequency": 17
+        },
+        {
+          "skill": "Git",
+          "frequency": 17
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 16
+        },
+        {
+          "skill": "Communication",
+          "frequency": 15
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 13
+        },
+        {
+          "skill": "SQL",
+          "frequency": 12
+        },
+        {
+          "skill": "Agile",
+          "frequency": 12
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 12
+        },
+        {
+          "skill": "Research",
+          "frequency": 12
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 11
+        }
+      ],
+      "total_postings": 459
+    },
+    "AI Engineering|Deep Learning Engineer": {
+      "category": "AI Engineering",
+      "role": "Deep Learning Engineer",
+      "skills": [
+        {
+          "skill": "Neural Networks",
+          "frequency": 49
+        },
+        {
+          "skill": "TensorFlow",
+          "frequency": 45
+        },
+        {
+          "skill": "Python",
+          "frequency": 44
+        },
+        {
+          "skill": "GPU Computing",
+          "frequency": 42
+        },
+        {
+          "skill": "CUDA",
+          "frequency": 40
+        },
+        {
+          "skill": "PyTorch",
+          "frequency": 40
+        },
+        {
+          "skill": "Research",
+          "frequency": 19
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 15
+        },
+        {
+          "skill": "Communication",
+          "frequency": 12
+        },
+        {
+          "skill": "Agile",
+          "frequency": 11
+        },
+        {
+          "skill": "Linux",
+          "frequency": 11
+        },
+        {
+          "skill": "Git",
+          "frequency": 10
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 10
+        },
+        {
+          "skill": "SQL",
+          "frequency": 10
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 9
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 4
+        }
+      ],
+      "total_postings": 371
+    },
+    "AI Engineering|Multimodal AI Engineer": {
+      "category": "AI Engineering",
+      "role": "Multimodal AI Engineer",
+      "skills": [
+        {
+          "skill": "PyTorch",
+          "frequency": 54
+        },
+        {
+          "skill": "APIs",
+          "frequency": 54
+        },
+        {
+          "skill": "Fine-tuning",
+          "frequency": 54
+        },
+        {
+          "skill": "Vision-Language Models",
+          "frequency": 49
+        },
+        {
+          "skill": "Python",
+          "frequency": 48
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 17
+        },
+        {
+          "skill": "Research",
+          "frequency": 16
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 15
+        },
+        {
+          "skill": "Agile",
+          "frequency": 15
+        },
+        {
+          "skill": "Linux",
+          "frequency": 14
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 13
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 13
+        },
+        {
+          "skill": "SQL",
+          "frequency": 13
+        },
+        {
+          "skill": "Communication",
+          "frequency": 9
+        },
+        {
+          "skill": "Git",
+          "frequency": 7
+        }
+      ],
+      "total_postings": 391
+    },
+    "ML Operations|MLOps Engineer": {
+      "category": "ML Operations",
+      "role": "MLOps Engineer",
+      "skills": [
+        {
+          "skill": "Cloud",
+          "frequency": 41
+        },
+        {
+          "skill": "Kubernetes",
+          "frequency": 40
+        },
+        {
+          "skill": "Docker",
+          "frequency": 37
+        },
+        {
+          "skill": "Python",
+          "frequency": 37
+        },
+        {
+          "skill": "Monitoring",
+          "frequency": 36
+        },
+        {
+          "skill": "MLflow",
+          "frequency": 36
+        },
+        {
+          "skill": "CI/CD",
+          "frequency": 35
+        },
+        {
+          "skill": "SQL",
+          "frequency": 12
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 11
+        },
+        {
+          "skill": "Communication",
+          "frequency": 11
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 9
+        },
+        {
+          "skill": "Research",
+          "frequency": 9
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 9
+        },
+        {
+          "skill": "Git",
+          "frequency": 8
+        },
+        {
+          "skill": "Linux",
+          "frequency": 6
+        }
+      ],
+      "total_postings": 347
+    },
+    "Business|AI Business Analyst": {
+      "category": "Business",
+      "role": "AI Business Analyst",
+      "skills": [
+        {
+          "skill": "Communication",
+          "frequency": 52
+        },
+        {
+          "skill": "Business Analysis",
+          "frequency": 52
+        },
+        {
+          "skill": "SQL",
+          "frequency": 51
+        },
+        {
+          "skill": "Python",
+          "frequency": 51
+        },
+        {
+          "skill": "Data Visualization",
+          "frequency": 43
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 16
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 14
+        },
+        {
+          "skill": "Linux",
+          "frequency": 14
+        },
+        {
+          "skill": "Research",
+          "frequency": 13
+        },
+        {
+          "skill": "Git",
+          "frequency": 13
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 13
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 11
+        },
+        {
+          "skill": "Agile",
+          "frequency": 11
+        }
+      ],
+      "total_postings": 354
+    },
+    "AI Engineering|RAG Engineer": {
+      "category": "AI Engineering",
+      "role": "RAG Engineer",
+      "skills": [
+        {
+          "skill": "Vector DBs",
+          "frequency": 41
+        },
+        {
+          "skill": "Python",
+          "frequency": 41
+        },
+        {
+          "skill": "Search Systems",
+          "frequency": 40
+        },
+        {
+          "skill": "LangChain",
+          "frequency": 38
+        },
+        {
+          "skill": "Embeddings",
+          "frequency": 36
+        },
+        {
+          "skill": "LLMs",
+          "frequency": 36
+        },
+        {
+          "skill": "Research",
+          "frequency": 15
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 13
+        },
+        {
+          "skill": "Git",
+          "frequency": 13
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 12
+        },
+        {
+          "skill": "Linux",
+          "frequency": 11
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 11
+        },
+        {
+          "skill": "Communication",
+          "frequency": 9
+        },
+        {
+          "skill": "SQL",
+          "frequency": 8
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 8
+        },
+        {
+          "skill": "Agile",
+          "frequency": 7
+        }
+      ],
+      "total_postings": 339
+    },
+    "Robotics|Robotics Engineer (AI)": {
+      "category": "Robotics",
+      "role": "Robotics Engineer (AI)",
+      "skills": [
+        {
+          "skill": "Simulation",
+          "frequency": 58
+        },
+        {
+          "skill": "C++",
+          "frequency": 54
+        },
+        {
+          "skill": "Control Systems",
+          "frequency": 54
+        },
+        {
+          "skill": "Computer Vision",
+          "frequency": 51
+        },
+        {
+          "skill": "Python",
+          "frequency": 49
+        },
+        {
+          "skill": "ROS",
+          "frequency": 46
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 18
+        },
+        {
+          "skill": "Agile",
+          "frequency": 18
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 17
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 16
+        },
+        {
+          "skill": "Communication",
+          "frequency": 15
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 15
+        },
+        {
+          "skill": "Git",
+          "frequency": 14
+        },
+        {
+          "skill": "SQL",
+          "frequency": 13
+        },
+        {
+          "skill": "Linux",
+          "frequency": 12
+        },
+        {
+          "skill": "Research",
+          "frequency": 12
+        }
+      ],
+      "total_postings": 462
+    },
+    "Data Science|Senior Data Scientist": {
+      "category": "Data Science",
+      "role": "Senior Data Scientist",
+      "skills": [
+        {
+          "skill": "Deep Learning",
+          "frequency": 53
+        },
+        {
+          "skill": "Python",
+          "frequency": 53
+        },
+        {
+          "skill": "Causal Inference",
+          "frequency": 50
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 50
+        },
+        {
+          "skill": "ML",
+          "frequency": 50
+        },
+        {
+          "skill": "Advanced Statistics",
+          "frequency": 46
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 20
+        },
+        {
+          "skill": "Research",
+          "frequency": 17
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 15
+        },
+        {
+          "skill": "Git",
+          "frequency": 15
+        },
+        {
+          "skill": "Agile",
+          "frequency": 12
+        },
+        {
+          "skill": "Communication",
+          "frequency": 12
+        },
+        {
+          "skill": "SQL",
+          "frequency": 11
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 10
+        },
+        {
+          "skill": "Linux",
+          "frequency": 9
+        }
+      ],
+      "total_postings": 423
+    },
+    "Governance|AI Ethics Officer": {
+      "category": "Governance",
+      "role": "AI Ethics Officer",
+      "skills": [
+        {
+          "skill": "Research",
+          "frequency": 48
+        },
+        {
+          "skill": "Communication",
+          "frequency": 47
+        },
+        {
+          "skill": "AI Policy",
+          "frequency": 46
+        },
+        {
+          "skill": "Ethics Frameworks",
+          "frequency": 44
+        },
+        {
+          "skill": "Risk Assessment",
+          "frequency": 34
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 14
+        },
+        {
+          "skill": "Agile",
+          "frequency": 14
+        },
+        {
+          "skill": "Linux",
+          "frequency": 14
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 12
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 10
+        },
+        {
+          "skill": "Git",
+          "frequency": 10
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 9
+        },
+        {
+          "skill": "SQL",
+          "frequency": 8
+        }
+      ],
+      "total_postings": 310
+    },
+    "Infrastructure|AI Infrastructure Eng": {
+      "category": "Infrastructure",
+      "role": "AI Infrastructure Eng",
+      "skills": [
+        {
+          "skill": "Distributed Systems",
+          "frequency": 48
+        },
+        {
+          "skill": "Networking",
+          "frequency": 42
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 42
+        },
+        {
+          "skill": "CUDA",
+          "frequency": 40
+        },
+        {
+          "skill": "Kubernetes",
+          "frequency": 38
+        },
+        {
+          "skill": "Storage",
+          "frequency": 38
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 15
+        },
+        {
+          "skill": "Communication",
+          "frequency": 14
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 13
+        },
+        {
+          "skill": "Research",
+          "frequency": 12
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 11
+        },
+        {
+          "skill": "Git",
+          "frequency": 10
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "Linux",
+          "frequency": 9
+        },
+        {
+          "skill": "SQL",
+          "frequency": 7
+        }
+      ],
+      "total_postings": 349
+    },
+    "AI Engineering|AI Engineer": {
+      "category": "AI Engineering",
+      "role": "AI Engineer",
+      "skills": [
+        {
+          "skill": "Python",
+          "frequency": 57
+        },
+        {
+          "skill": "Docker",
+          "frequency": 56
+        },
+        {
+          "skill": "LLM Integration",
+          "frequency": 52
+        },
+        {
+          "skill": "Cloud (AWS/GCP/Azure)",
+          "frequency": 51
+        },
+        {
+          "skill": "PyTorch",
+          "frequency": 46
+        },
+        {
+          "skill": "Linux",
+          "frequency": 19
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 18
+        },
+        {
+          "skill": "Communication",
+          "frequency": 16
+        },
+        {
+          "skill": "Agile",
+          "frequency": 15
+        },
+        {
+          "skill": "Research",
+          "frequency": 14
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 13
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 11
+        },
+        {
+          "skill": "Git",
+          "frequency": 9
+        },
+        {
+          "skill": "SQL",
+          "frequency": 7
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 7
+        }
+      ],
+      "total_postings": 391
+    },
+    "Data Science|Data Scientist": {
+      "category": "Data Science",
+      "role": "Data Scientist",
+      "skills": [
+        {
+          "skill": "Statistics",
+          "frequency": 51
+        },
+        {
+          "skill": "SQL",
+          "frequency": 50
+        },
+        {
+          "skill": "Scikit-learn",
+          "frequency": 49
+        },
+        {
+          "skill": "Data Visualization",
+          "frequency": 48
+        },
+        {
+          "skill": "Python",
+          "frequency": 44
+        },
+        {
+          "skill": "ML Algorithms",
+          "frequency": 43
+        },
+        {
+          "skill": "Agile",
+          "frequency": 14
+        },
+        {
+          "skill": "Linux",
+          "frequency": 14
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 14
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 13
+        },
+        {
+          "skill": "Communication",
+          "frequency": 11
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 10
+        },
+        {
+          "skill": "Git",
+          "frequency": 9
+        },
+        {
+          "skill": "Research",
+          "frequency": 9
+        }
+      ],
+      "total_postings": 379
+    },
+    "AI Engineering|Computer Vision Engineer": {
+      "category": "AI Engineering",
+      "role": "Computer Vision Engineer",
+      "skills": [
+        {
+          "skill": "CNNs",
+          "frequency": 37
+        },
+        {
+          "skill": "CUDA",
+          "frequency": 37
+        },
+        {
+          "skill": "Image Processing",
+          "frequency": 37
+        },
+        {
+          "skill": "PyTorch",
+          "frequency": 36
+        },
+        {
+          "skill": "OpenCV",
+          "frequency": 34
+        },
+        {
+          "skill": "Python",
+          "frequency": 31
+        },
+        {
+          "skill": "Git",
+          "frequency": 14
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 12
+        },
+        {
+          "skill": "SQL",
+          "frequency": 11
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 9
+        },
+        {
+          "skill": "Research",
+          "frequency": 9
+        },
+        {
+          "skill": "Linux",
+          "frequency": 7
+        },
+        {
+          "skill": "Agile",
+          "frequency": 6
+        },
+        {
+          "skill": "Communication",
+          "frequency": 6
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 6
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 4
+        }
+      ],
+      "total_postings": 296
+    },
+    "Governance|AI Compliance Manager": {
+      "category": "Governance",
+      "role": "AI Compliance Manager",
+      "skills": [
+        {
+          "skill": "Auditing",
+          "frequency": 54
+        },
+        {
+          "skill": "EU AI Act",
+          "frequency": 53
+        },
+        {
+          "skill": "Legal Knowledge",
+          "frequency": 53
+        },
+        {
+          "skill": "Risk Management",
+          "frequency": 50
+        },
+        {
+          "skill": "Documentation",
+          "frequency": 49
+        },
+        {
+          "skill": "SQL",
+          "frequency": 15
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 15
+        },
+        {
+          "skill": "Linux",
+          "frequency": 14
+        },
+        {
+          "skill": "Git",
+          "frequency": 14
+        },
+        {
+          "skill": "Agile",
+          "frequency": 13
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 12
+        },
+        {
+          "skill": "Research",
+          "frequency": 12
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 10
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 8
+        },
+        {
+          "skill": "Communication",
+          "frequency": 6
+        }
+      ],
+      "total_postings": 378
+    },
+    "Research|AI Research Scientist": {
+      "category": "Research",
+      "role": "AI Research Scientist",
+      "skills": [
+        {
+          "skill": "Publishing",
+          "frequency": 41
+        },
+        {
+          "skill": "PyTorch",
+          "frequency": 39
+        },
+        {
+          "skill": "Mathematics",
+          "frequency": 39
+        },
+        {
+          "skill": "Deep Learning",
+          "frequency": 38
+        },
+        {
+          "skill": "Python",
+          "frequency": 35
+        },
+        {
+          "skill": "Research",
+          "frequency": 35
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 13
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 13
+        },
+        {
+          "skill": "Communication",
+          "frequency": 12
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 9
+        },
+        {
+          "skill": "Git",
+          "frequency": 9
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 7
+        },
+        {
+          "skill": "Linux",
+          "frequency": 6
+        },
+        {
+          "skill": "SQL",
+          "frequency": 5
+        }
+      ],
+      "total_postings": 311
+    }
+  },
+  "category_skill_mapping": {
+    "AI Engineering": {
+      "category": "AI Engineering",
+      "skills": [
+        {
+          "skill": "Python",
+          "frequency": 565
+        },
+        {
+          "skill": "PyTorch",
+          "frequency": 263
+        },
+        {
+          "skill": "SQL",
+          "frequency": 180
+        },
+        {
+          "skill": "Research",
+          "frequency": 166
+        },
+        {
+          "skill": "Linux",
+          "frequency": 164
+        },
+        {
+          "skill": "Fine-tuning",
+          "frequency": 164
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 160
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 148
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 146
+        },
+        {
+          "skill": "Git",
+          "frequency": 143
+        },
+        {
+          "skill": "Communication",
+          "frequency": 140
+        },
+        {
+          "skill": "Agile",
+          "frequency": 136
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 134
+        },
+        {
+          "skill": "LLMs",
+          "frequency": 125
+        },
+        {
+          "skill": "LLM APIs",
+          "frequency": 103
+        },
+        {
+          "skill": "APIs",
+          "frequency": 98
+        },
+        {
+          "skill": "Vector DBs",
+          "frequency": 95
+        },
+        {
+          "skill": "MLOps",
+          "frequency": 88
+        },
+        {
+          "skill": "TensorFlow",
+          "frequency": 86
+        },
+        {
+          "skill": "LangChain",
+          "frequency": 77
+        },
+        {
+          "skill": "CUDA",
+          "frequency": 77
+        },
+        {
+          "skill": "RAG",
+          "frequency": 63
+        },
+        {
+          "skill": "Documentation",
+          "frequency": 59
+        },
+        {
+          "skill": "GenAI APIs",
+          "frequency": 58
+        },
+        {
+          "skill": "Docker",
+          "frequency": 56
+        },
+        {
+          "skill": "NLP",
+          "frequency": 55
+        },
+        {
+          "skill": "Prompt Engineering",
+          "frequency": 55
+        },
+        {
+          "skill": "Diffusion Models",
+          "frequency": 55
+        },
+        {
+          "skill": "Testing",
+          "frequency": 53
+        },
+        {
+          "skill": "Deployment",
+          "frequency": 53
+        },
+        {
+          "skill": "System Design",
+          "frequency": 52
+        },
+        {
+          "skill": "LLM Integration",
+          "frequency": 52
+        },
+        {
+          "skill": "Distributed Systems",
+          "frequency": 51
+        },
+        {
+          "skill": "Cloud (AWS/GCP/Azure)",
+          "frequency": 51
+        },
+        {
+          "skill": "Neural Networks",
+          "frequency": 49
+        },
+        {
+          "skill": "Vision-Language Models",
+          "frequency": 49
+        },
+        {
+          "skill": "Prompt Design",
+          "frequency": 48
+        },
+        {
+          "skill": "Kubernetes",
+          "frequency": 45
+        },
+        {
+          "skill": "AutoGen",
+          "frequency": 44
+        },
+        {
+          "skill": "Tool Use",
+          "frequency": 44
+        },
+        {
+          "skill": "Transformers",
+          "frequency": 44
+        },
+        {
+          "skill": "Planning Systems",
+          "frequency": 42
+        },
+        {
+          "skill": "LLM Fine-tuning",
+          "frequency": 42
+        },
+        {
+          "skill": "Hugging Face",
+          "frequency": 42
+        },
+        {
+          "skill": "GPU Computing",
+          "frequency": 42
+        },
+        {
+          "skill": "Search Systems",
+          "frequency": 40
+        },
+        {
+          "skill": "BERT",
+          "frequency": 39
+        },
+        {
+          "skill": "Text Processing",
+          "frequency": 37
+        },
+        {
+          "skill": "CNNs",
+          "frequency": 37
+        },
+        {
+          "skill": "Image Processing",
+          "frequency": 37
+        },
+        {
+          "skill": "Embeddings",
+          "frequency": 36
+        },
+        {
+          "skill": "OpenCV",
+          "frequency": 34
+        }
+      ],
+      "total_postings": 4722
+    },
+    "Data Engineering": {
+      "category": "Data Engineering",
+      "skills": [
+        {
+          "skill": "SQL",
+          "frequency": 39
+        },
+        {
+          "skill": "Feature Stores",
+          "frequency": 38
+        },
+        {
+          "skill": "Airflow",
+          "frequency": 36
+        },
+        {
+          "skill": "dbt",
+          "frequency": 36
+        },
+        {
+          "skill": "Python",
+          "frequency": 36
+        },
+        {
+          "skill": "ETL",
+          "frequency": 33
+        },
+        {
+          "skill": "Spark",
+          "frequency": 31
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 14
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 14
+        },
+        {
+          "skill": "Git",
+          "frequency": 14
+        },
+        {
+          "skill": "Linux",
+          "frequency": 12
+        },
+        {
+          "skill": "Communication",
+          "frequency": 11
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 8
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 7
+        },
+        {
+          "skill": "Research",
+          "frequency": 4
+        }
+      ],
+      "total_postings": 343
+    },
+    "Product": {
+      "category": "Product",
+      "skills": [
+        {
+          "skill": "Agile",
+          "frequency": 63
+        },
+        {
+          "skill": "Data Analysis",
+          "frequency": 61
+        },
+        {
+          "skill": "Stakeholder Mgmt",
+          "frequency": 61
+        },
+        {
+          "skill": "Product Strategy",
+          "frequency": 57
+        },
+        {
+          "skill": "AI Literacy",
+          "frequency": 55
+        },
+        {
+          "skill": "Linux",
+          "frequency": 21
+        },
+        {
+          "skill": "Git",
+          "frequency": 20
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 19
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 18
+        },
+        {
+          "skill": "Communication",
+          "frequency": 15
+        },
+        {
+          "skill": "Research",
+          "frequency": 14
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 12
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 10
+        },
+        {
+          "skill": "SQL",
+          "frequency": 8
+        }
+      ],
+      "total_postings": 434
+    },
+    "Security": {
+      "category": "Security",
+      "skills": [
+        {
+          "skill": "Risk Analysis",
+          "frequency": 44
+        },
+        {
+          "skill": "Cybersecurity",
+          "frequency": 43
+        },
+        {
+          "skill": "ML Security",
+          "frequency": 43
+        },
+        {
+          "skill": "Red Teaming",
+          "frequency": 42
+        },
+        {
+          "skill": "Python",
+          "frequency": 36
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 14
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 14
+        },
+        {
+          "skill": "Communication",
+          "frequency": 11
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 11
+        },
+        {
+          "skill": "Git",
+          "frequency": 10
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "SQL",
+          "frequency": 10
+        },
+        {
+          "skill": "Linux",
+          "frequency": 9
+        },
+        {
+          "skill": "Research",
+          "frequency": 5
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 4
+        }
+      ],
+      "total_postings": 306
+    },
+    "Architecture": {
+      "category": "Architecture",
+      "skills": [
+        {
+          "skill": "System Design",
+          "frequency": 44
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 42
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 42
+        },
+        {
+          "skill": "ML",
+          "frequency": 39
+        },
+        {
+          "skill": "Python",
+          "frequency": 36
+        },
+        {
+          "skill": "Enterprise Architecture",
+          "frequency": 31
+        },
+        {
+          "skill": "Linux",
+          "frequency": 16
+        },
+        {
+          "skill": "SQL",
+          "frequency": 13
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 12
+        },
+        {
+          "skill": "Agile",
+          "frequency": 9
+        },
+        {
+          "skill": "Communication",
+          "frequency": 8
+        },
+        {
+          "skill": "Research",
+          "frequency": 7
+        },
+        {
+          "skill": "Git",
+          "frequency": 6
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 5
+        }
+      ],
+      "total_postings": 310
+    },
+    "ML Operations": {
+      "category": "ML Operations",
+      "skills": [
+        {
+          "skill": "Cloud",
+          "frequency": 41
+        },
+        {
+          "skill": "Kubernetes",
+          "frequency": 40
+        },
+        {
+          "skill": "Docker",
+          "frequency": 37
+        },
+        {
+          "skill": "Python",
+          "frequency": 37
+        },
+        {
+          "skill": "Monitoring",
+          "frequency": 36
+        },
+        {
+          "skill": "MLflow",
+          "frequency": 36
+        },
+        {
+          "skill": "CI/CD",
+          "frequency": 35
+        },
+        {
+          "skill": "SQL",
+          "frequency": 12
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 11
+        },
+        {
+          "skill": "Communication",
+          "frequency": 11
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 9
+        },
+        {
+          "skill": "Research",
+          "frequency": 9
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 9
+        },
+        {
+          "skill": "Git",
+          "frequency": 8
+        },
+        {
+          "skill": "Linux",
+          "frequency": 6
+        }
+      ],
+      "total_postings": 347
+    },
+    "Business": {
+      "category": "Business",
+      "skills": [
+        {
+          "skill": "Communication",
+          "frequency": 52
+        },
+        {
+          "skill": "Business Analysis",
+          "frequency": 52
+        },
+        {
+          "skill": "SQL",
+          "frequency": 51
+        },
+        {
+          "skill": "Python",
+          "frequency": 51
+        },
+        {
+          "skill": "Data Visualization",
+          "frequency": 43
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 16
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 14
+        },
+        {
+          "skill": "Linux",
+          "frequency": 14
+        },
+        {
+          "skill": "Research",
+          "frequency": 13
+        },
+        {
+          "skill": "Git",
+          "frequency": 13
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 13
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 11
+        },
+        {
+          "skill": "Agile",
+          "frequency": 11
+        }
+      ],
+      "total_postings": 354
+    },
+    "Robotics": {
+      "category": "Robotics",
+      "skills": [
+        {
+          "skill": "Simulation",
+          "frequency": 58
+        },
+        {
+          "skill": "C++",
+          "frequency": 54
+        },
+        {
+          "skill": "Control Systems",
+          "frequency": 54
+        },
+        {
+          "skill": "Computer Vision",
+          "frequency": 51
+        },
+        {
+          "skill": "Python",
+          "frequency": 49
+        },
+        {
+          "skill": "ROS",
+          "frequency": 46
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 18
+        },
+        {
+          "skill": "Agile",
+          "frequency": 18
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 17
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 16
+        },
+        {
+          "skill": "Communication",
+          "frequency": 15
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 15
+        },
+        {
+          "skill": "Git",
+          "frequency": 14
+        },
+        {
+          "skill": "SQL",
+          "frequency": 13
+        },
+        {
+          "skill": "Linux",
+          "frequency": 12
+        },
+        {
+          "skill": "Research",
+          "frequency": 12
+        }
+      ],
+      "total_postings": 462
+    },
+    "Data Science": {
+      "category": "Data Science",
+      "skills": [
+        {
+          "skill": "Python",
+          "frequency": 97
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 66
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 64
+        },
+        {
+          "skill": "SQL",
+          "frequency": 61
+        },
+        {
+          "skill": "Deep Learning",
+          "frequency": 53
+        },
+        {
+          "skill": "Causal Inference",
+          "frequency": 50
+        },
+        {
+          "skill": "ML",
+          "frequency": 50
+        },
+        {
+          "skill": "Scikit-learn",
+          "frequency": 49
+        },
+        {
+          "skill": "Data Visualization",
+          "frequency": 48
+        },
+        {
+          "skill": "Advanced Statistics",
+          "frequency": 46
+        },
+        {
+          "skill": "ML Algorithms",
+          "frequency": 43
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 33
+        },
+        {
+          "skill": "Research",
+          "frequency": 26
+        },
+        {
+          "skill": "Agile",
+          "frequency": 26
+        },
+        {
+          "skill": "Git",
+          "frequency": 24
+        },
+        {
+          "skill": "Linux",
+          "frequency": 23
+        },
+        {
+          "skill": "Communication",
+          "frequency": 23
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 20
+        }
+      ],
+      "total_postings": 802
+    },
+    "Governance": {
+      "category": "Governance",
+      "skills": [
+        {
+          "skill": "Research",
+          "frequency": 60
+        },
+        {
+          "skill": "Auditing",
+          "frequency": 54
+        },
+        {
+          "skill": "Communication",
+          "frequency": 53
+        },
+        {
+          "skill": "EU AI Act",
+          "frequency": 53
+        },
+        {
+          "skill": "Legal Knowledge",
+          "frequency": 53
+        },
+        {
+          "skill": "Risk Management",
+          "frequency": 50
+        },
+        {
+          "skill": "Documentation",
+          "frequency": 49
+        },
+        {
+          "skill": "AI Policy",
+          "frequency": 46
+        },
+        {
+          "skill": "Ethics Frameworks",
+          "frequency": 44
+        },
+        {
+          "skill": "Risk Assessment",
+          "frequency": 34
+        },
+        {
+          "skill": "Linux",
+          "frequency": 28
+        },
+        {
+          "skill": "Agile",
+          "frequency": 27
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 26
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 24
+        },
+        {
+          "skill": "Git",
+          "frequency": 24
+        },
+        {
+          "skill": "SQL",
+          "frequency": 23
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 20
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 20
+        }
+      ],
+      "total_postings": 688
+    },
+    "Infrastructure": {
+      "category": "Infrastructure",
+      "skills": [
+        {
+          "skill": "Distributed Systems",
+          "frequency": 48
+        },
+        {
+          "skill": "Networking",
+          "frequency": 42
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 42
+        },
+        {
+          "skill": "CUDA",
+          "frequency": 40
+        },
+        {
+          "skill": "Kubernetes",
+          "frequency": 38
+        },
+        {
+          "skill": "Storage",
+          "frequency": 38
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 15
+        },
+        {
+          "skill": "Communication",
+          "frequency": 14
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 13
+        },
+        {
+          "skill": "Research",
+          "frequency": 12
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 11
+        },
+        {
+          "skill": "Git",
+          "frequency": 10
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "Linux",
+          "frequency": 9
+        },
+        {
+          "skill": "SQL",
+          "frequency": 7
+        }
+      ],
+      "total_postings": 349
+    },
+    "Research": {
+      "category": "Research",
+      "skills": [
+        {
+          "skill": "Publishing",
+          "frequency": 41
+        },
+        {
+          "skill": "PyTorch",
+          "frequency": 39
+        },
+        {
+          "skill": "Mathematics",
+          "frequency": 39
+        },
+        {
+          "skill": "Deep Learning",
+          "frequency": 38
+        },
+        {
+          "skill": "Python",
+          "frequency": 35
+        },
+        {
+          "skill": "Research",
+          "frequency": 35
+        },
+        {
+          "skill": "Cloud",
+          "frequency": 13
+        },
+        {
+          "skill": "Statistics",
+          "frequency": 13
+        },
+        {
+          "skill": "Communication",
+          "frequency": 12
+        },
+        {
+          "skill": "Agile",
+          "frequency": 10
+        },
+        {
+          "skill": "Problem Solving",
+          "frequency": 9
+        },
+        {
+          "skill": "Git",
+          "frequency": 9
+        },
+        {
+          "skill": "Leadership",
+          "frequency": 7
+        },
+        {
+          "skill": "Linux",
+          "frequency": 6
+        },
+        {
+          "skill": "SQL",
+          "frequency": 5
+        }
+      ],
+      "total_postings": 311
+    }
+  },
+  "metadata": {
+    "source": "ai_jobs_clean.csv",
+    "num_roles": 25,
+    "num_categories": 12,
+    "num_canonical_skills": 93
+  }
+}

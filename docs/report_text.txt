@@ -1,0 +1,597 @@
+--- PAGE 1 ---
+CareerCompass
+An ML-Based System for Tech Career Trend Prediction and Skill 
+Recommendation
+Project Report
+Machine Learning — Course Project
+Submitted by: [Your Name / Team Names]
+B.Tech, Artificial Intelligence & Data Science
+Vishwakarma Institute of Technology (VIT)
+July 2026
+
+
+--- PAGE 2 ---
+CareerCompass — Project Report
+1. System Ideation
+1.1 Problem Statement
+Final-year and pre-final-year engineering students routinely make two high-stakes decisions — which skills to 
+invest time in, and which companies to target — using fragmented, anecdotal, and often outdated information: 
+senior placement stories, scattered LinkedIn posts, and generic “top skills to learn” listicles. None of these 
+sources are grounded in a structured, continuously updated dataset that reflects the actual state of hiring demand, 
+compensation, and workforce contraction in the tech industry at a given point in time.
+This creates a recurring mismatch: students frequently prepare for roles or companies whose hiring patterns have 
+already shifted, or invest in skills whose market demand is flat or declining, simply because no accessible tool 
+synthesizes postings data, compensation data, and layoff data into a single, personalized, evidence-backed 
+recommendation.
+1.2 Proposed System
+CareerCompass is proposed as a machine-learning-driven advisory system that accepts three inputs from a 
+student — their current skill set, a target (“dream”) company, and a salary expectation — and returns a structured, 
+evidence-grounded output covering four elements:
+•
+Market-trend standing of the student’s target company (growing / stable / contracting hiring activity, 
+based on recent posting volume and layoff signals).
+•
+A ranked shortlist of comparable or better-fit companies, scored by skill match, compensation alignment, 
+and hiring-trend health.
+•
+A predicted realistic salary band for the student’s skill set and target role, benchmarked against their 
+stated expectation.
+•
+A prioritized skill-gap list — skills to acquire, ranked by demand trend and frequency in postings for the 
+student’s target roles.
+The system is explicitly positioned as a decision-support tool grounded in a purpose-built dataset, not a general-
+purpose chatbot. Every recommendation it produces is traceable to a specific data point or model output — a 
+posting count, a regression coefficient, a trend slope — which distinguishes it from LLM-based career advice that 
+cannot be interrogated for its evidentiary basis in the same way.
+1.3 Motivation and Related Work
+Career-guidance and AI-coaching tools already exist commercially, and the space has grown substantially — the 
+AI career-coaching market was valued near $6.69 billion in 2026 and is projected to nearly double in four years, 
+reflecting demand for guidance that keeps pace with a job market being restructured at the task level. Section 3 of 
+this report surveys the closest existing systems in detail and identifies specific gaps this project addresses: none of 
+the surveyed tools combine dream-company-specific benchmarking, salary-expectation reframing against real 
+data, and explicit skill-drop guidance within a single transparent, academically reproducible system.
+Page 2 of 13
+
+
+--- PAGE 3 ---
+CareerCompass — Project Report
+1.4 Scope Boundary: What Is ML vs. What Is Data Engineering
+A deliberate design decision in this project is to be explicit about which components are genuinely learned 
+models and which are deterministic aggregation or ranking logic. This distinction is documented up front rather 
+than blurred, both for academic honesty and because it clarifies where the system's real predictive value lies.
+Component
+Category
+Justification
+Salary prediction
+Machine Learning (regression)
+Learned function of skills, role, location, seniority 
+— genuinely benefits from a trained model over 
+hand-written rules.
+Skill demand trend classification
+Machine Learning (time-series / 
+lightweight classifier)
+Trend direction is inferred from historical posting 
+patterns rather than fixed thresholds.
+Company recommendation ranking
+Hybrid — similarity scoring (ML) + 
+rule-based filtering
+Vector similarity is a learned representation; 
+salary/location filters are deterministic business 
+rules layered on top.
+Market-trend summary for a 
+named company
+Data aggregation / visualization
+Time-series counts and layoff signals presented 
+directly; no prediction is made about this specific 
+company's future beyond descriptive trend.
+Skill-gap list generation
+Rule-based ranking (set difference + 
+trend score)
+A set-difference and sort operation; using a full 
+model here would add complexity without added 
+accuracy at this data scale.
+Page 3 of 13
+
+
+--- PAGE 4 ---
+CareerCompass — Project Report
+2. Machine Learning Models
+This section specifies, for each predictive task, the model family selected, the reasoning behind that choice, the 
+input features, the target output, and the evaluation metric to be used. Model choices favor interpretable, tabular-
+data-appropriate methods over deep learning, both because the available dataset size does not justify deep 
+architectures and because interpretability (e.g., feature importance) is directly useful for explaining 
+recommendations to students and for defending design choices academically.
+2.1 Salary Prediction Model
+Task: Predict a realistic salary range for a student given their skills, target role, target company (or company 
+tier), location, and seniority level.
+Model: Gradient-boosted decision trees (XGBoost or LightGBM), with a linear regression baseline for 
+comparison.
+Gradient boosting is preferred over a neural network here because the input is predominantly tabular and mixed 
+categorical/numeric data at a moderate dataset size (likely tens of thousands of rows), a regime where tree 
+ensembles consistently outperform deep models and require far less tuning. Feature importance output from the 
+trained model also gives a direct, presentable explanation for why a predicted salary came out the way it did — 
+useful both for the student-facing UI and for the project defense.
+Input Features
+•
+One-hot / target-encoded role category and seniority level
+•
+Multi-hot encoded skill vector (from the skills taxonomy, Section 3)
+•
+Company size band and industry (categorical)
+•
+Location (encoded; optionally cost-of-living adjusted)
+•
+Posting recency (to capture time-based salary drift)
+Target and Evaluation
+•
+Target: salary_min and salary_max (two regression heads, or a single midpoint target with a separately 
+modeled range width)
+•
+Metrics: Mean Absolute Error (MAE) in currency units, and R² on a held-out test split; MAE is 
+prioritized over RMSE for interpretability to a non-technical reader (“on average, predictions are off by 
+X”)
+₹
+2.2 Skill Demand Trend Classifier
+Task: Classify each skill in the taxonomy as Rising, Stable, or Declining based on its demand trajectory over 
+the available historical window.
+Model: Rolling-window linear regression slope per skill, thresholded into three classes; optionally compared 
+against a simple logistic regression / decision tree classifier trained on engineered trend features for a stronger 
+academic contribution.
+This task is intentionally kept lightweight. A recurrent or transformer-based time-series model would be difficult 
+to justify given a limited historical window (job-posting and survey datasets typically span a small number of 
+years at monthly granularity) and would not meaningfully outperform a well-engineered slope-and-threshold 
+approach or a shallow classifier. This choice is documented explicitly in Section 1.4 as a place where added 
+model complexity would not be justified by the data available.
+Page 4 of 13
+
+
+--- PAGE 5 ---
+CareerCompass — Project Report
+Input Features (per skill, per time window)
+•
+Monthly posting count mentioning the skill (normalized by total postings that month, to separate real 
+trend from overall market volume changes)
+•
+Slope of a rolling linear fit over the trailing 6–12 months
+•
+Year-over-year percentage change, where survey data (e.g. Stack Overflow Developer Survey) is 
+available to extend the window
+Target and Evaluation
+•
+Target: 3-class label (Rising / Stable / Declining), assigned initially via slope thresholds and used as 
+ground truth for a supervised classifier if one is trained
+•
+Metrics: classification accuracy and per-class F1 score on a held-out set of skill-months; qualitative 
+validation against known industry narratives (e.g. cloud/AI skills trending up) as a sanity check
+2.3 Company Recommendation Engine
+Task: Given a student's skill vector, target salary, and dream company, return a ranked list of companies that 
+are a stronger or comparable fit.
+Model: Content-based similarity scoring — cosine similarity between the student's skill vector and each 
+company's aggregated hiring-skill vector — combined with rule-based filters for salary band and current 
+hiring-trend health.
+Collaborative filtering (the approach used by most commercial recommender systems) is deliberately not used 
+here, since it requires a large volume of user-company interaction history that a college project's own dataset will 
+not have. Content-based similarity against company hiring profiles built from the postings dataset is both feasible 
+at this data scale and directly explainable: a recommendation can be shown alongside the specific skill overlap 
+that produced it.
+Input Features
+•
+Student skill vector (multi-hot or TF-IDF weighted, from skills taxonomy)
+•
+Company hiring-skill vector, aggregated from that company's postings over a trailing window
+•
+Company hiring-trend score (from Section 2.2-style aggregation, applied at company level instead of 
+skill level)
+•
+Salary compatibility (student expectation vs. company's observed salary band for matching roles)
+Target and Evaluation
+•
+No single ground-truth label exists for “correct” recommendation; evaluation is via offline proxy metrics 
+(e.g., does the model rank the student's actual dream company highly when skills strongly match its 
+typical hiring profile) and qualitative review by the project team
+2.4 Skill Gap Recommendation
+Task: Given a student's current skills and their target role/company, output a ranked list of skills to acquire.
+Model: Deterministic ranking — set difference between (skills frequently required for the target role at trend-
+healthy companies) and (student's current skills), ranked by a composite score of posting frequency and trend 
+classification from Section 2.2.
+This is intentionally not framed as a trained model. It is a ranking function over already-modeled quantities (skill 
+trend class, posting frequency), and forcing a separate learned model onto this step would add complexity 
+without a corresponding gain in accuracy or explainability — the composite score is already fully interpretable.
+Page 5 of 13
+
+
+--- PAGE 6 ---
+CareerCompass — Project Report
+2.5 Model Pipeline Summary
+Stage
+Technique
+Output consumed by
+Data ingestion & cleaning
+Pandas / regex-based normalization
+All downstream stages
+Skill extraction & taxonomy 
+mapping
+Rule-based matching + fuzzy matching (e.g. 
+RapidFuzz)
+Skill vectors used across 2.1–2.4
+Salary prediction
+XGBoost / LightGBM regression
+Student-facing salary benchmark 
+output
+Skill trend classification
+Rolling regression slope + optional shallow 
+classifier
+Skill-gap ranking, company 
+scoring
+Company similarity scoring
+Cosine similarity + rule filters
+Company recommendation list
+Skill gap ranking
+Weighted set-difference ranking
+Final “skills to learn / drop” 
+output
+Page 6 of 13
+
+
+--- PAGE 7 ---
+CareerCompass — Project Report
+3. Dataset Schema
+The system relies on a purpose-built relational dataset assembled from public sources (job-posting datasets, the 
+Stack Overflow Developer Survey, and layoffs.fyi historical records). The schema below is designed to support 
+all four modeling tasks in Section 2 without redundant duplication of skill or company information.
+3.1 Entity-Relationship Overview
+Six core tables and one logging table make up the schema: companies, job_postings, skills, posting_skills (a 
+junction table), skill_trends (a derived/aggregated table), layoffs, and user_queries (application usage logging, 
+not training data). Relationships are as follows: a company has many job_postings and many layoff records; a 
+job_posting has many skills through posting_skills; a skill has many monthly entries in skill_trends.
+3.2 Table: companies
+Column
+Type
+Description
+company_id
+INTEGER (PK)
+Unique identifier
+name
+VARCHAR(255)
+Company name, normalized (e.g. “Google” not “Google LLC”)
+industry
+VARCHAR(100)
+e.g. fintech, e-commerce, AI/ML, SaaS, core-tech
+size_band
+ENUM
+startup / mid-size / large / enterprise-FAANG-tier
+hq_location
+VARCHAR(100)
+Primary headquarters location
+glassdoor_rating
+FLOAT (nullable)
+Optional enrichment field
+created_at
+TIMESTAMP
+Record creation time
+3.3 Table: job_postings
+Column
+Type
+Description
+posting_id
+INTEGER (PK)
+Unique identifier
+company_id
+INTEGER (FK)
+References companies.company_id
+role_title
+VARCHAR(150)
+Raw title as scraped/sourced
+role_category
+VARCHAR(50)
+Normalized category: backend / frontend / ML / data / devops / mobile 
+/ other
+seniority
+ENUM
+intern / junior / mid / senior / lead
+salary_min
+FLOAT (nullable)
+Lower bound of stated salary range
+salary_max
+FLOAT (nullable)
+Upper bound of stated salary range
+location
+VARCHAR(100)
+Job location or “remote”
+posted_date
+DATE
+Critical for all time-series trend analysis
+source
+VARCHAR(50)
+Dataset/source identifier, for provenance
+Page 7 of 13
+
+
+--- PAGE 8 ---
+CareerCompass — Project Report
+3.4 Table: skills
+Column
+Type
+Description
+skill_id
+INTEGER (PK)
+Unique identifier
+skill_name
+VARCHAR(100)
+Normalized name (e.g. “React”, not “ReactJS”/“React.js” variants)
+category
+ENUM
+language / framework / database / cloud-tool / soft-skill / other
+aliases
+TEXT
+Comma-separated known synonyms, used for normalization 
+matching
+3.5 Table: posting_skills (junction)
+Column
+Type
+posting_id
+INTEGER (FK) — references job_postings.posting_id
+skill_id
+INTEGER (FK) — references skills.skill_id
+3.6 Table: skill_trends (derived/aggregated)
+Column
+Type
+Description
+skill_id
+INTEGER (FK)
+References skills.skill_id
+month
+DATE
+First day of the aggregation month
+demand_count
+INTEGER
+Number of postings mentioning this skill that month
+demand_share
+FLOAT
+demand_count normalized by total postings that 
+month
+avg_salary
+FLOAT
+Average salary midpoint across postings mentioning 
+this skill
+trend_class
+ENUM (nullable)
+Rising / Stable / Declining — populated by the 
+Section 2.2 model
+3.7 Table: layoffs
+Column
+Type
+Description
+layoff_id
+INTEGER (PK)
+Unique identifier
+company_id
+INTEGER (FK)
+References companies.company_id
+date
+DATE
+Date of reported layoff event
+count
+INTEGER (nullable)
+Number of employees affected, if reported
+percent_of_workforce
+FLOAT (nullable)
+Percentage of workforce affected, if reported
+department
+VARCHAR(100) (nullable)
+Affected department, where source data provides it
+source
+VARCHAR(50)
+Provenance, e.g. “layoffs.fyi”
+Page 8 of 13
+
+
+--- PAGE 9 ---
+CareerCompass — Project Report
+3.8 Table: user_queries (application logging)
+This table is not training data — it logs how the finished application is actually used, for the report's evaluation 
+section and for future iteration.
+Column
+Type
+Description
+query_id
+INTEGER (PK)
+Unique identifier
+input_skills
+TEXT
+Skills submitted by the user, as skill_id list
+dream_company_id
+INTEGER (FK, nullable)
+May be null if company not in database
+target_salary
+FLOAT
+User-stated salary expectation
+timestamp
+TIMESTAMP
+Query time
+3.9 Data Sources
+•
+Job postings: publicly available structured datasets (e.g. Kaggle LinkedIn/Indeed job-postings 
+collections), used in place of direct scraping to avoid Terms-of-Service issues.
+•
+Skill trend enrichment: Stack Overflow Developer Survey (annual), used to extend and validate trend 
+signal beyond the postings window.
+•
+Layoff data: layoffs.fyi historical dataset (company, date, headcount, and where available, department).
+Page 9 of 13
+
+
+--- PAGE 10 ---
+CareerCompass — Project Report
+4. Existing Systems and Comparative Analysis
+This section surveys the closest existing tools in the AI-career-guidance space, evaluated specifically against the 
+four capabilities CareerCompass targets: company-specific market-trend benchmarking, salary-expectation 
+reframing against real data, skill-gap ranking grounded in trend data, and layoff-pattern awareness. It concludes 
+with a direct comparison to general-purpose LLM assistants (Claude, ChatGPT, etc.), since students can and do 
+already turn to these for career advice.
+4.1 Surveyed Systems
+4.1.1 Jenova AI — Career Advisor
+Positions itself as a strategic career agent that analyzes a user's experience and goals against “market realities,” 
+going beyond personality-quiz-style tools to identify specific skill gaps and estimated timelines to close them.
+Drawbacks relative to CareerCompass: Guidance is generated conversationally per query rather than 
+computed from a fixed, inspectable dataset; there is no visible mechanism for company-specific hiring-trend 
+benchmarking or layoff-pattern context, and salary guidance is not tied to a transparent regression model a user 
+or evaluator could audit.
+4.1.2 Predictive Job-Matching Platforms (e.g. Eightfold.ai-class tools)
+This category of tool uses ML, NLP, and neural networks to model employment trajectories, analyzing resumes, 
+skills, behaviors, and market trends to forecast job fit, salary growth, and career transitions, claiming high 
+workflow-matching accuracy on internal benchmarks.
+Drawbacks relative to CareerCompass: These are enterprise-oriented platforms (typically sold to employers 
+for talent acquisition, not directly to students), with closed, proprietary models and no free student-facing 
+salary-expectation-vs-reality tool; layoff-context and skill-drop guidance are not part of their stated feature set.
+4.1.3 Resume/Application-Focused Tools (Careerflow, Teal, Jobscan, Kickresume, Rezi)
+This cluster of tools focuses on resume optimization, ATS keyword matching, and application tracking rather 
+than market-trend prediction.
+Drawbacks relative to CareerCompass: These tools address a different problem — application quality, not 
+market-fit decision-making. They do not attempt company-trend benchmarking, salary prediction, or skill-gap-
+versus-market-demand analysis at all.
+4.1.4 Enterprise Upskilling Platforms (Disco, Pluralsight, LinkedIn Learning, Gloat, 
+CoachHub)
+These integrate AI to surface industry trends and skill requirements as part of structured employee career-
+development programs within organizations.
+Drawbacks relative to CareerCompass: Built for employed professionals inside a sponsoring organization, 
+not for students evaluating external companies; no dream-company or layoff-aware benchmarking; typically 
+paid enterprise licenses inaccessible to individual students.
+4.1.5 General Job Platforms Adding AI Coaching (LinkedIn and peers)
+Industry commentary indicates AI-powered career coaching is moving from a premium add-on to a standard, 
+commoditized feature expected across major job platforms within the next few years.
+Page 10 of 13
+
+
+--- PAGE 11 ---
+CareerCompass — Project Report
+Drawbacks relative to CareerCompass: Feature is still emerging and generic across all users of the platform; 
+not tailored to a specific student's stated skill set, dream company, and salary expectation as three explicit joint 
+inputs; underlying models are not disclosed or reproducible for academic evaluation.
+4.2 Comparison Table
+System
+Company-specific 
+trend 
+benchmarking
+Salary prediction 
+transparency
+Layoff-aware 
+context
+Explainable / 
+reproducible model
+Jenova AI Career Advisor
+No
+Low — 
+conversational, not 
+model-based
+No
+No — closed system
+Enterprise predictive job-
+matching (Eightfold-class)
+Partial (employer-
+side)
+Low — proprietary
+No
+No — proprietary
+Resume tools (Careerflow, 
+Teal, etc.)
+No
+No
+No
+N/A — different 
+problem scope
+Enterprise upskilling 
+platforms
+No (internal-org 
+focus)
+No
+No
+No — closed system
+General job platforms w/ 
+AI coaching
+Generic, not 
+personalized to 3 
+joint inputs
+Low
+No
+No — undisclosed 
+models
+General-purpose LLMs 
+(Claude, ChatGPT)
+Partial — only if 
+searched live, not 
+grounded in a fixed 
+dataset
+Low — estimated 
+from 
+training/search, not 
+computed
+Partial — only if 
+explicitly asked 
+and searched
+No — not auditable 
+or reproducible
+CareerCompass (proposed)
+Yes — from 
+structured posting 
+time-series
+Yes — regression 
+model with feature 
+importance
+Yes — 
+dedicated 
+layoffs table, 
+correlational not 
+causal
+Yes — fully 
+inspectable pipeline
+4.3 Can Students Just Use an LLM (Claude, ChatGPT, etc.) Instead?
+This question deserves a direct answer rather than being sidestepped, since it is the most likely challenge a 
+student project of this kind will face in evaluation.
+What general-purpose LLMs already do well: general “what skills should I learn for X role” advice drawn 
+from broad training knowledge and, where web search is available, individual current data points such as a 
+specific company's recent layoff announcement.
+What they do not structurally provide, and what this project targets instead:
+•
+No persistent, structured dataset the answer is grounded in — an LLM's answer about whether a 
+company's hiring is growing or shrinking is pattern-matched from scattered text, not queried from a 
+maintained time-series of postings.
+•
+No quantitative trend modeling — a claim that a skill's demand is declining is a qualitative impression 
+from text seen previously, not a computed regression slope over a defined historical window.
+•
+No joint, consistent scoring of three simultaneous inputs (skills, dream company, salary expectation) 
+against a numeric database — an LLM improvises a fresh answer per query with no guarantee of 
+consistency across repeated queries or as underlying data updates.
+Page 11 of 13
+
+
+--- PAGE 12 ---
+CareerCompass — Project Report
+•
+No reproducibility or auditability — a model's feature weights or a similarity score can be inspected and 
+defended; an LLM's reasoning for a specific recommendation cannot be verified against source data in 
+the same way.
+The honest positioning, and the one this report recommends carrying into the project's introduction and viva 
+defense, is that general-purpose LLMs are strong generalist advisors, while CareerCompass is a narrower, 
+grounded, numeric, and updatable prediction system — a complementary tool rather than a like-for-like 
+replacement.
+Page 12 of 13
+
+
+--- PAGE 13 ---
+CareerCompass — Project Report
+5. Summary
+CareerCompass is scoped as a system that combines genuine, justified machine learning (salary regression, skill-
+trend classification, similarity-based recommendation) with clearly labeled deterministic components (skill-gap 
+ranking, trend aggregation), built on a purpose-designed relational schema sourced from publicly available job-
+postings, developer-survey, and layoff datasets. Its differentiation from both commercial AI-career tools and 
+general-purpose LLM assistants rests on three properties none of the surveyed alternatives combine: company-
+specific trend benchmarking grounded in a maintained dataset, a transparent and auditable salary-prediction 
+model, and layoff-pattern context presented honestly as correlational rather than causal.
+This document is intended as the ideation and design reference for the implementation phase of the project; 
+Section 2 model choices and Section 3 schema are written to be directly actionable as the starting point for the 
+codebase.
+Page 13 of 13
+
+

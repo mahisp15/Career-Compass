@@ -1,0 +1,8591 @@
+{
+  "Boston Consulting Group": {
+    "name": "Boston Consulting Group",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "LLMs",
+        "count": 2
+      },
+      {
+        "skill": "LangChain",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Spark",
+        "count": 2
+      },
+      {
+        "skill": "Airflow",
+        "count": 1
+      },
+      {
+        "skill": "AutoGen",
+        "count": 1
+      },
+      {
+        "skill": "BERT",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Hugging Face",
+        "count": 1
+      },
+      {
+        "skill": "MLflow",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "NLP",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "MLOps",
+        "count": 1
+      },
+      {
+        "skill": "Prompt Engineering",
+        "count": 1
+      },
+      {
+        "skill": "dbt",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Analyst, Predictive Analytics, India- X Delivery",
+        "count": 1
+      },
+      {
+        "role": "Global IT Data Scientist Senior Specialist",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "IN"
+    ],
+    "locations": [
+      "Gurugram, IN",
+      "London, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Experian": {
+    "name": "Experian",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 1
+      },
+      {
+        "skill": "ETL",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Management - Analyst",
+        "count": 1
+      },
+      {
+        "role": "Data Scientist \u2013 GenAI & AI Engineering",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "IN"
+    ],
+    "locations": [
+      "London, GB",
+      "Mumbai, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "The Cigna Group": {
+    "name": "The Cigna Group",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Agile",
+        "count": 3
+      },
+      {
+        "skill": "RAG",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "SQL",
+        "count": 3
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "APIs",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Docker",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "EU AI Act",
+        "count": 1
+      },
+      {
+        "skill": "Prompt Engineering",
+        "count": 1
+      },
+      {
+        "skill": "Risk Management",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "ETL",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "Scikit-learn",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Science Senior Analyst",
+        "count": 1
+      },
+      {
+        "role": "Software Engineering Senior Analyst",
+        "count": 1
+      },
+      {
+        "role": "Machine Learning Engineer - Express Scripts Canada",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA",
+      "IN"
+    ],
+    "locations": [
+      "Hyderabad, IN",
+      "Bengaluru, IN",
+      "Mississauga, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Clarivate": {
+    "name": "Clarivate",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "ETL",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Healthcare Research & Data Analyst",
+        "count": 1
+      },
+      {
+        "role": "Lead Software Engineer - Python",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Bengaluru, IN",
+      "Bagaluru, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "JPMC Candidate Experience page": {
+    "name": "JPMC Candidate Experience page",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Causal Inference",
+        "count": 1
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 1
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "NLP",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Automation & Data - Analyst",
+        "count": 1
+      },
+      {
+        "role": "Lead Data Scientist - Finance Technology",
+        "count": 1
+      },
+      {
+        "role": "Experienced Software Engineer Java / Python (Full Stack or Back End)",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US",
+      "IN"
+    ],
+    "locations": [
+      "Jersey City, US",
+      "Bengaluru, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Cognizant": {
+    "name": "Cognizant",
+    "total_postings": 4,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 4
+      },
+      {
+        "skill": "Agile",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "SQL",
+        "count": 3
+      },
+      {
+        "skill": "APIs",
+        "count": 3
+      },
+      {
+        "skill": "ETL",
+        "count": 2
+      },
+      {
+        "skill": "Monitoring",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Docker",
+        "count": 2
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Airflow",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Analytics/Data Analyst - Consultant",
+        "count": 1
+      },
+      {
+        "role": "Python__Data Engineering",
+        "count": 1
+      },
+      {
+        "role": "Java + Python Developer",
+        "count": 1
+      },
+      {
+        "role": "Senior Java Backend Developer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA",
+      "IN"
+    ],
+    "locations": [
+      "Hyderabad, IN",
+      "Gurugram, IN",
+      "Toronto, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.7,
+        "review_count": 62237.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 3.6,
+        "review_count": 120683.0
+      },
+      {
+        "publisher": "Jobstreet",
+        "score": 4.1,
+        "review_count": 370.0
+      }
+    ],
+    "avg_review_score": 3.8000000000000003,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Barclays": {
+    "name": "Barclays",
+    "total_postings": 6,
+    "top_skills": [
+      {
+        "skill": "Git",
+        "count": 6
+      },
+      {
+        "skill": "Leadership",
+        "count": 6
+      },
+      {
+        "skill": "ML",
+        "count": 6
+      },
+      {
+        "skill": "ROS",
+        "count": 6
+      },
+      {
+        "skill": "Deployment",
+        "count": 4
+      },
+      {
+        "skill": "CI/CD",
+        "count": 4
+      },
+      {
+        "skill": "Cloud",
+        "count": 4
+      },
+      {
+        "skill": "Testing",
+        "count": 4
+      },
+      {
+        "skill": "Agile",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "RAG",
+        "count": 3
+      },
+      {
+        "skill": "Communication",
+        "count": 3
+      },
+      {
+        "skill": "Risk Management",
+        "count": 3
+      },
+      {
+        "skill": "Documentation",
+        "count": 3
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 2
+      },
+      {
+        "skill": "LLMs",
+        "count": 2
+      },
+      {
+        "skill": "Spark",
+        "count": 2
+      },
+      {
+        "skill": "PyTorch",
+        "count": 2
+      },
+      {
+        "skill": "Docker",
+        "count": 2
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 2
+      },
+      {
+        "skill": "NLP",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Simulation",
+        "count": 1
+      },
+      {
+        "skill": "MLOps",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Scikit-learn",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Distributed Systems",
+        "count": 1
+      },
+      {
+        "skill": "Publishing",
+        "count": 1
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Scientist",
+        "count": 1
+      },
+      {
+        "role": "Analyst in Finance Data Operations",
+        "count": 1
+      },
+      {
+        "role": "AVP - Data Scientist (Quantitative Analytics)",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer-JAVA Full stack Developer",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer - Developer Experience",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer Agentic AI",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US",
+      "IN"
+    ],
+    "locations": [
+      "Wilmington, US",
+      "Gurugram, IN",
+      "Bengaluru, IN",
+      "Chennai, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.7,
+        "review_count": 3484.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 4.0,
+        "review_count": 22092.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 3.9,
+        "review_count": 6920.0
+      }
+    ],
+    "avg_review_score": 3.8666666666666667,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "ADCI HYD 13 SEZ - H84": {
+    "name": "ADCI HYD 13 SEZ - H84",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Data Analysis",
+        "count": 2
+      },
+      {
+        "skill": "Documentation",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Business Analyst II, Global Data Analytics (GDA), Finance Operations",
+        "count": 1
+      },
+      {
+        "role": "Sr. Business Analyst, Global Data Analytics (GDA), Finance Operations",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Hyderabad, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Rose International": {
+    "name": "Rose International",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Data Analysis",
+        "count": 2
+      },
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Problem Solving",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "Risk Management",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Analyst Jobs in USA, VA, Richmond | Rose International Job",
+        "count": 1
+      },
+      {
+        "role": "Machine Learning Engineer (Python, Spark) Jobs in USA, NJ, Rutherford | Rose International Job",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 60.0,
+    "avg_salary_max": 65.0,
+    "avg_salary_midpoint": 62.5,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "Richmond, US",
+      "Rutherford, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "Indeed",
+        "score": 3.8,
+        "review_count": 613.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 4.5,
+        "review_count": 895.0
+      },
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.7,
+        "review_count": 72.0
+      }
+    ],
+    "avg_review_score": 4.0,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Warner Bros. Discovery": {
+    "name": "Warner Bros. Discovery",
+    "total_postings": 5,
+    "top_skills": [
+      {
+        "skill": "RAG",
+        "count": 5
+      },
+      {
+        "skill": "ROS",
+        "count": 5
+      },
+      {
+        "skill": "Communication",
+        "count": 4
+      },
+      {
+        "skill": "SQL",
+        "count": 4
+      },
+      {
+        "skill": "Documentation",
+        "count": 4
+      },
+      {
+        "skill": "Git",
+        "count": 3
+      },
+      {
+        "skill": "Leadership",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "ML",
+        "count": 3
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "Feature Stores",
+        "count": 2
+      },
+      {
+        "skill": "MLOps",
+        "count": 2
+      },
+      {
+        "skill": "MLflow",
+        "count": 2
+      },
+      {
+        "skill": "Monitoring",
+        "count": 2
+      },
+      {
+        "skill": "Spark",
+        "count": 2
+      },
+      {
+        "skill": "Statistics",
+        "count": 2
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 1
+      },
+      {
+        "skill": "dbt",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Distributed Systems",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "AutoGen",
+        "count": 1
+      },
+      {
+        "skill": "Embeddings",
+        "count": 1
+      },
+      {
+        "skill": "LangChain",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "Fine-tuning",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Staff Data Analyst, Audience Analytics & Insights - CNN Digital Products & Services",
+        "count": 1
+      },
+      {
+        "role": "Senior Software Engineer - Fullstack - Java & Angular (MSC Team) Bangalore",
+        "count": 1
+      },
+      {
+        "role": "Staff Software Engineer- Java, Consumer Platform Team), Hyderabad",
+        "count": 1
+      },
+      {
+        "role": "Senior Machine Learning Engineer (Data & Audience Platform Team), Hyderabad",
+        "count": 1
+      },
+      {
+        "role": "Senior Manager, Machine Learning Engineering (Data & Audience Platform), Hyderabad",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Hyderabad, IN",
+      "Bengaluru, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 4
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.7,
+        "review_count": 171.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 3.7,
+        "review_count": 3841.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 3.9,
+        "review_count": 1042.0
+      }
+    ],
+    "avg_review_score": 3.766666666666667,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Walmart": {
+    "name": "Walmart",
+    "total_postings": 6,
+    "top_skills": [
+      {
+        "skill": "RAG",
+        "count": 6
+      },
+      {
+        "skill": "ROS",
+        "count": 6
+      },
+      {
+        "skill": "Mathematics",
+        "count": 5
+      },
+      {
+        "skill": "Python",
+        "count": 5
+      },
+      {
+        "skill": "Spark",
+        "count": 5
+      },
+      {
+        "skill": "Statistics",
+        "count": 5
+      },
+      {
+        "skill": "SQL",
+        "count": 4
+      },
+      {
+        "skill": "ML",
+        "count": 4
+      },
+      {
+        "skill": "Communication",
+        "count": 3
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 3
+      },
+      {
+        "skill": "Monitoring",
+        "count": 3
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 3
+      },
+      {
+        "skill": "Git",
+        "count": 3
+      },
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "Causal Inference",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "NLP",
+        "count": 2
+      },
+      {
+        "skill": "PyTorch",
+        "count": 2
+      },
+      {
+        "skill": "Research",
+        "count": 2
+      },
+      {
+        "skill": "Scikit-learn",
+        "count": 2
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 2
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "ETL",
+        "count": 1
+      },
+      {
+        "skill": "Neural Networks",
+        "count": 1
+      },
+      {
+        "skill": "Transformers",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "BERT",
+        "count": 1
+      },
+      {
+        "skill": "Computer Vision",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "(USA) Senior, Data Analyst",
+        "count": 2
+      },
+      {
+        "role": "Senior Manager, Data Analytics",
+        "count": 1
+      },
+      {
+        "role": "(USA) Senior, Data Scientist",
+        "count": 1
+      },
+      {
+        "role": "(USA) Distinguished, Data Scientist",
+        "count": 1
+      },
+      {
+        "role": "(USA) Senior, Software Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 94666.66666666667,
+    "avg_salary_max": 187666.66666666666,
+    "avg_salary_midpoint": 141166.66666666666,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "Pea Ridge, US",
+      "Bella Vista, US",
+      "Auburn, US",
+      "Gravette, US",
+      "Tontitown, US",
+      "Elm Springs, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 6
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "TEKsystems": {
+    "name": "TEKsystems",
+    "total_postings": 6,
+    "top_skills": [
+      {
+        "skill": "ROS",
+        "count": 6
+      },
+      {
+        "skill": "Documentation",
+        "count": 3
+      },
+      {
+        "skill": "Testing",
+        "count": 3
+      },
+      {
+        "skill": "Cloud",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Business Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "Embeddings",
+        "count": 1
+      },
+      {
+        "skill": "Fine-tuning",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Cybersecurity",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Networking",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Analyst (PowerBI And DAX)",
+        "count": 1
+      },
+      {
+        "role": "Client Data Analyst",
+        "count": 1
+      },
+      {
+        "role": "Lead Software Engineer",
+        "count": 1
+      },
+      {
+        "role": "Full Stack Python/React Developer (W2 ONLY)",
+        "count": 1
+      },
+      {
+        "role": "Full-stack Developer - Claims",
+        "count": 1
+      },
+      {
+        "role": "Devops & Cloud Engineer (Mobile Payments)",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 62.5,
+    "avg_salary_max": 75.0,
+    "avg_salary_midpoint": 68.75,
+    "countries": [
+      "GB",
+      "US",
+      "CA"
+    ],
+    "locations": [
+      "Hook, GB",
+      "Irving, US",
+      "Toronto, CA",
+      "Schaumburg, US",
+      "London, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 4
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "EchoStar": {
+    "name": "EchoStar",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Analyst II",
+        "count": 2
+      }
+    ],
+    "avg_salary_min": 63150.0,
+    "avg_salary_max": 90000.0,
+    "avg_salary_midpoint": 76575.0,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "Englewood, US",
+      "Broomfield, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "frontendnode-production.up.railway.app": {
+    "name": "frontendnode-production.up.railway.app",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Control Systems",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "**Experienced Customer Data Analyst \u2013 US Remote Opportunity to Drive Business Success at arenaflex**",
+        "count": 1
+      },
+      {
+        "role": "Python Developer (12 month FTC )",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [],
+    "locations": [],
+    "remote_friendly_pct": 1.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "SynergisticIT": {
+    "name": "SynergisticIT",
+    "total_postings": 6,
+    "top_skills": [
+      {
+        "skill": "Python",
+        "count": 6
+      },
+      {
+        "skill": "Statistics",
+        "count": 6
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 5
+      },
+      {
+        "skill": "Cloud",
+        "count": 4
+      },
+      {
+        "skill": "Communication",
+        "count": 4
+      },
+      {
+        "skill": "Docker",
+        "count": 4
+      },
+      {
+        "skill": "Mathematics",
+        "count": 4
+      },
+      {
+        "skill": "NLP",
+        "count": 4
+      },
+      {
+        "skill": "ROS",
+        "count": 4
+      },
+      {
+        "skill": "C++",
+        "count": 3
+      },
+      {
+        "skill": "Computer Vision",
+        "count": 3
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Research",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 1
+      },
+      {
+        "skill": "Auditing",
+        "count": 1
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Entry Level Python Developer",
+        "count": 2
+      },
+      {
+        "role": "Data Analyst/Scientist - Junior/Entry (Remote)",
+        "count": 1
+      },
+      {
+        "role": "Python Programmer - Remote",
+        "count": 1
+      },
+      {
+        "role": "Entry Level Python Developer (Remote)",
+        "count": 1
+      },
+      {
+        "role": "Python Programmer - Entry",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "Louisville, US",
+      "West New York, US",
+      "Arlington, US"
+    ],
+    "remote_friendly_pct": 0.5,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 3
+      },
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "ITOL Recruit": {
+    "name": "ITOL Recruit",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Business Analysis",
+        "count": 3
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 3
+      },
+      {
+        "skill": "Git",
+        "count": 3
+      },
+      {
+        "skill": "ML",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "RAG",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "SQL",
+        "count": 3
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Trainee Data Analyst",
+        "count": 2
+      },
+      {
+        "role": "Data Analyst Trainee",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "Huddersfield, GB",
+      "Hull, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Radiance Technologies": {
+    "name": "Radiance Technologies",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Agile",
+        "count": 3
+      },
+      {
+        "skill": "Mathematics",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "Research",
+        "count": 3
+      },
+      {
+        "skill": "SQL",
+        "count": 3
+      },
+      {
+        "skill": "Statistics",
+        "count": 3
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "LLMs",
+        "count": 2
+      },
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "MLOps",
+        "count": 2
+      },
+      {
+        "skill": "NLP",
+        "count": 2
+      },
+      {
+        "skill": "PyTorch",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Scikit-learn",
+        "count": 2
+      },
+      {
+        "skill": "Spark",
+        "count": 2
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "ETL",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Junior Data Analyst",
+        "count": 1
+      },
+      {
+        "role": "Data Scientist",
+        "count": 1
+      },
+      {
+        "role": "Senior Data Scientist",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "Devizes, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "W\u00fcnder_talent": {
+    "name": "W\u00fcnder_talent",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Remote Senior Data Analyst - Snowflake/SQL/Python - Remote (UK) - Immediate Start",
+        "count": 2
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "Doncaster, GB",
+      "Bradford, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Apex Focus Group": {
+    "name": "Apex Focus Group",
+    "total_postings": 18,
+    "top_skills": [
+      {
+        "skill": "Research",
+        "count": 18
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Market Data Analyst",
+        "count": 18
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": 700.0,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "Altrincham, GB",
+      "Nottingham, GB",
+      "Shifnal, GB",
+      "Leicester, GB",
+      "Selby, GB",
+      "Reading, GB",
+      "Huddersfield, GB",
+      "Highbridge, GB",
+      "Slough, GB",
+      "Sevenoaks, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 18
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Pimlico Enterprises": {
+    "name": "Pimlico Enterprises",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 2
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Mathematics",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Statistics",
+        "count": 2
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Analyst Intern",
+        "count": 2
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "Bedford, GB",
+      "Stoke-on-Trent, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "RKY Careers": {
+    "name": "RKY Careers",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Auditing",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Finance Data Analyst & Business Partner Visa Sponsorship Available",
+        "count": 1
+      },
+      {
+        "role": "Full Stack Software Engineer \u2013 Python: Visa Sponsorship Available",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "London, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Tata Consultancy Services": {
+    "name": "Tata Consultancy Services",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Neural Networks",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Embeddings",
+        "count": 1
+      },
+      {
+        "skill": "Fine-tuning",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "MLOps",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "NLP",
+        "count": 1
+      },
+      {
+        "skill": "PyTorch",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 1
+      },
+      {
+        "skill": "Tool Use",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Science - Data Science & ML Engineering",
+        "count": 1
+      },
+      {
+        "role": "GEN AI Engineer (Data Science)",
+        "count": 1
+      },
+      {
+        "role": "Python,Pyspark,AWS",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Hyderabad, IN",
+      "Mumbai, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.3,
+        "review_count": 116003.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 3.5,
+        "review_count": 166413.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 3.9,
+        "review_count": 23598.0
+      }
+    ],
+    "avg_review_score": 3.5666666666666664,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "HALLIBURTON": {
+    "name": "HALLIBURTON",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Research",
+        "count": 2
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 2
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Fine-tuning",
+        "count": 1
+      },
+      {
+        "skill": "Hugging Face",
+        "count": 1
+      },
+      {
+        "skill": "LangChain",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "PyTorch",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Scikit-learn",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "C++",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Technical Professional - Data Science/ Sr. Data Science/ Principal Data Science",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer (Java / C++)",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "IN"
+    ],
+    "locations": [
+      "Bengaluru, IN",
+      "Abingdon, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [],
+    "reviews": [
+      {
+        "publisher": "Glassdoor",
+        "score": 3.7,
+        "review_count": 6079.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 3.8,
+        "review_count": 7586.0
+      },
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.6,
+        "review_count": 342.0
+      }
+    ],
+    "avg_review_score": 3.6999999999999997,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "NielsenIQ": {
+    "name": "NielsenIQ",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "Docker",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Scikit-learn",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Lead Data Scientist",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer (.Net, Angular, Docker, Azure)",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Pune, IN",
+      "Pimpri-Chinchwad, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "ZS": {
+    "name": "ZS",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Research",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "Simulation",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Distributed Systems",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Advanced Data Science Consultant",
+        "count": 1
+      },
+      {
+        "role": "Senior AI Full Stack Developer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Toronto, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Google": {
+    "name": "Google",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Mathematics",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "Research",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Statistics",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Problem Solving",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Scientist, Research Cloud",
+        "count": 1
+      },
+      {
+        "role": "Senior Product Data Scientist, Consumer Shopping",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US",
+      "IN"
+    ],
+    "locations": [
+      "Bengaluru, IN",
+      "Mountain View, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [
+      {
+        "date": null,
+        "laid_off": 52.0,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.geekwire.com/2026/google-to-cut-52-employees-in-washington-state/",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.businessinsider.com/google-clouds-quiet-layoffs-hit-cybersecurity-teams-2026-6",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": 50.0,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.sfchronicle.com/tech/article/google-bay-area-layoffs-21081705.php",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": 100.0,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.cnbc.com/2025/10/01/google-cloud-unit-layoffs.html",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2025-06-24",
+        "laid_off": 75.0,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.theinformation.com/articles/google-cuts-smart-tv-budget-doubles-youtube",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.reuters.com/technology/google-lays-off-hundreds-employees-android-pixel-group-information-reports-2025-04-11/",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2025-02-27",
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.cnbc.com/2025/02/27/google-makes-cuts-to-hr-and-cloud-units.html",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2024-05-31",
+        "laid_off": 100.0,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.businessinsider.com/google-cloud-layoffs-job-cuts-employees-globally-2024-5",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": 57.0,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.sfchronicle.com/tech/article/tech-layoffs-google-rivian-19451076.php",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": 200.0,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2024-04-30",
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://techcrunch.com/2024/04/29/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2024-04-17",
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.reuters.com/technology/google-lays-off-employees-shifts-some-roles-abroad-amid-cost-cuts-2024-04-17/",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2024-01-22",
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.bloomberg.com/news/articles/2024-01-22/google-layoffs-saga-continues-as-alphabet-s-x-cuts-dozens-of-jobs-seeks-funds",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2024-01-16",
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.businessinsider.com/google-is-laying-off-hundreds-of-employees-in-its-advertising-team-2024-1",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": 1000.0,
+        "percentage": null,
+        "industry": "Consumer",
+        "source": "https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Capital One": {
+    "name": "Capital One",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 3
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 3
+      },
+      {
+        "skill": "Mathematics",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "RAG",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "Research",
+        "count": 3
+      },
+      {
+        "skill": "Spark",
+        "count": 3
+      },
+      {
+        "skill": "Statistics",
+        "count": 3
+      },
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Associate, Data Scientist - Corporate Strategy",
+        "count": 1
+      },
+      {
+        "role": "Senior Director, Data Science - Head of Fair Lending Analytics - Fair & Responsible Banking Compliance",
+        "count": 1
+      },
+      {
+        "role": "Principal Associate, Data Science - US Card Fraud Authentication Team",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "McLean, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Ford Motor Company": {
+    "name": "Ford Motor Company",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "RAG",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "SQL",
+        "count": 3
+      },
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "Research",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "MLOps",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Computer Vision",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "OpenCV",
+        "count": 1
+      },
+      {
+        "skill": "PyTorch",
+        "count": 1
+      },
+      {
+        "skill": "Storage",
+        "count": 1
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 1
+      },
+      {
+        "skill": "AutoGen",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "MLflow",
+        "count": 1
+      },
+      {
+        "skill": "Prompt Engineering",
+        "count": 1
+      },
+      {
+        "skill": "Risk Management",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Scientist - Supply Chain Analytics",
+        "count": 1
+      },
+      {
+        "role": "Full-stack Software Engineer",
+        "count": 1
+      },
+      {
+        "role": "Applied AI/ML Software Engineer-Supply Chain AI and Decision Intelligence",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "Dearborn, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "UnitedHealth Group": {
+    "name": "UnitedHealth Group",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Monitoring",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Cybersecurity",
+        "count": 1
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "Feature Stores",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "Prompt Engineering",
+        "count": 1
+      },
+      {
+        "skill": "PyTorch",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Principal Data Scientist - Remote",
+        "count": 1
+      },
+      {
+        "role": "Senior Software Engineer - React Native with Nodejs",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 112700.0,
+    "avg_salary_max": 193200.0,
+    "avg_salary_midpoint": 152950.0,
+    "countries": [
+      "US",
+      "IN"
+    ],
+    "locations": [
+      "Eden Prairie, US",
+      "Pune, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "Indeed",
+        "score": 3.6,
+        "review_count": 19043.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 3.3999999999999995,
+        "review_count": 15416.0
+      },
+      {
+        "publisher": "AmbitionBox",
+        "score": 4.0,
+        "review_count": 2789.0
+      }
+    ],
+    "avg_review_score": 3.6666666666666665,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "TD Bank": {
+    "name": "TD Bank",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "Research",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Statistics",
+        "count": 2
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "ETL",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "Risk Management",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "MLOps",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Scientist - FCRM",
+        "count": 1
+      },
+      {
+        "role": "Machine Learning Engineer II",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US",
+      "CA"
+    ],
+    "locations": [
+      "Lexington, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Snowflake": {
+    "name": "Snowflake",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Simulation",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Data Scientist",
+        "count": 1
+      },
+      {
+        "role": "Senior Software Engineer - Data Engineering Experience",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 156000.0,
+    "avg_salary_max": 224200.0,
+    "avg_salary_midpoint": 190100.0,
+    "countries": [
+      "US",
+      "CA"
+    ],
+    "locations": [
+      "Toronto, CA",
+      "Menlo Park, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "Glassdoor",
+        "score": 3.7,
+        "review_count": 1056.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 3.7,
+        "review_count": 31.0
+      },
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.2,
+        "review_count": 44.0
+      }
+    ],
+    "avg_review_score": 3.5333333333333337,
+    "layoff_events": [
+      {
+        "date": "2026-03-19",
+        "laid_off": 70.0,
+        "percentage": null,
+        "industry": "Data",
+        "source": "https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "HP": {
+    "name": "HP",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "LangChain",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Prompt Engineering",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Principal AI Data Scientist",
+        "count": 1
+      },
+      {
+        "role": "Artificial Intelligence Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US"
+    ],
+    "locations": [],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [
+      {
+        "date": "2025-11-25",
+        "laid_off": 4000.0,
+        "percentage": null,
+        "industry": "Hardware",
+        "source": "https://www.wsj.com/tech/hp-to-cut-up-to-10-of-workforce-as-part-of-ai-push-a2c198da?mod=hp_lead_pos4",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2025-02-28",
+        "laid_off": 2000.0,
+        "percentage": null,
+        "industry": "Hardware",
+        "source": "https://www.sfchronicle.com/tech/article/hp-job-cuts-tariff-concerns-20193141.php",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Adobe": {
+    "name": "Adobe",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Causal Inference",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "Publishing",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Sr. Director, Data Science & Analytics",
+        "count": 1
+      },
+      {
+        "role": "Director, Data Science & Strategy",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "San Francisco, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Independent Software, Inc.": {
+    "name": "Independent Software, Inc.",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Docker",
+        "count": 2
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 2
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "C++",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Scientist, Level 4",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer, Level 1",
+        "count": 1
+      },
+      {
+        "role": "Senior Kubernetes Software Engineer; Go\u200b/Python",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 80000.0,
+    "avg_salary_max": 100000.0,
+    "avg_salary_midpoint": 90000.0,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "Ellicott City, US",
+      "Frederick, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "Indeed",
+        "score": 4.0,
+        "review_count": 3.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 3.3999999999999995,
+        "review_count": 4.0
+      }
+    ],
+    "avg_review_score": 3.6999999999999997,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Sam's Club": {
+    "name": "Sam's Club",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Mathematics",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Research",
+        "count": 2
+      },
+      {
+        "skill": "Spark",
+        "count": 2
+      },
+      {
+        "skill": "Statistics",
+        "count": 2
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Causal Inference",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "MLOps",
+        "count": 1
+      },
+      {
+        "skill": "Neural Networks",
+        "count": 1
+      },
+      {
+        "skill": "PyTorch",
+        "count": 1
+      },
+      {
+        "skill": "Scikit-learn",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "AutoGen",
+        "count": 1
+      },
+      {
+        "skill": "Embeddings",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "LangChain",
+        "count": 1
+      },
+      {
+        "skill": "Vector DBs",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "(USA) Principal, Data Scientist - Generalist",
+        "count": 1
+      },
+      {
+        "role": "(USA) Staff, Data Scientist",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 143000.0,
+    "avg_salary_max": 286000.0,
+    "avg_salary_midpoint": 214500.0,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "San Jose, US",
+      "San Mateo, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Mastercard": {
+    "name": "Mastercard",
+    "total_postings": 4,
+    "top_skills": [
+      {
+        "skill": "Git",
+        "count": 4
+      },
+      {
+        "skill": "ROS",
+        "count": 4
+      },
+      {
+        "skill": "ML",
+        "count": 3
+      },
+      {
+        "skill": "APIs",
+        "count": 3
+      },
+      {
+        "skill": "Cloud",
+        "count": 3
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Neural Networks",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Scikit-learn",
+        "count": 1
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Problem Solving",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Enterprise Architecture",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Manager, Data Scientist",
+        "count": 1
+      },
+      {
+        "role": "Principal, Software Engineer",
+        "count": 1
+      },
+      {
+        "role": "Lead Software Engineer - Fullstack(Angular + Java)",
+        "count": 1
+      },
+      {
+        "role": "Lead Software Engineer - Full Stack (Java, Micro-services, React/Angular)",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "IN"
+    ],
+    "locations": [
+      "Pune, IN",
+      "London, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.8,
+        "review_count": 1017.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 4.1,
+        "review_count": 7707.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 4.0,
+        "review_count": 841.0
+      }
+    ],
+    "avg_review_score": 3.9666666666666663,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "IBM": {
+    "name": "IBM",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 3
+      },
+      {
+        "skill": "Deployment",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "RAG",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "Linux",
+        "count": 2
+      },
+      {
+        "skill": "PyTorch",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "NLP",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Embeddings",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "Prompt Engineering",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Data Scientist - AI",
+        "count": 1
+      },
+      {
+        "role": "Senior Data Scientist",
+        "count": 1
+      },
+      {
+        "role": "AI Software Engineer -Python Programmer, Vector Database, GEN AI",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "IN"
+    ],
+    "locations": [
+      "Bengaluru, IN",
+      "Manchester, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [
+      {
+        "date": "2024-09-18",
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Hardware",
+        "source": "https://www.theregister.com/2024/09/18/ibm_job_cuts/",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2024-08-26",
+        "laid_off": 1000.0,
+        "percentage": null,
+        "industry": "Hardware",
+        "source": "https://www.reuters.com/technology/ibm-close-china-rd-department-affecting-over-1000-jobs-yicai-reports-2024-08-26/",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Hardware",
+        "source": "https://www.cnbc.com/2024/03/12/ibm-tells-employees-of-job-cuts-in-marketing-and-communications.html",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Capital One UK": {
+    "name": "Capital One UK",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Deep Learning",
+        "count": 2
+      },
+      {
+        "skill": "Hugging Face",
+        "count": 2
+      },
+      {
+        "skill": "Neural Networks",
+        "count": 2
+      },
+      {
+        "skill": "PyTorch",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Statistics",
+        "count": 2
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 2
+      },
+      {
+        "skill": "Transformers",
+        "count": 2
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Lead Data Scientist (Model Developer) / Deep Learning Practitioner",
+        "count": 2
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "Newark, GB",
+      "Nottingham, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "And Digital": {
+    "name": "And Digital",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Remote Data Scientist (Contract)",
+        "count": 2
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Pelago": {
+    "name": "Pelago",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Docker",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "PyTorch",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Scikit-learn",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Machine Learning Data Scientist - London",
+        "count": 1
+      },
+      {
+        "role": "Python Software Engineer",
+        "count": 1
+      },
+      {
+        "role": "Lead Python Developer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 65000.0,
+    "avg_salary_max": 100000.0,
+    "avg_salary_midpoint": 82500.0,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "London, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Cisco": {
+    "name": "Cisco",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 3
+      },
+      {
+        "skill": "Git",
+        "count": 3
+      },
+      {
+        "skill": "ML",
+        "count": 3
+      },
+      {
+        "skill": "Networking",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "C++",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Distributed Systems",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Software Engineer",
+        "count": 1
+      },
+      {
+        "role": "Senior Full-Stack Wireless Software Engineer \u2013 G10",
+        "count": 1
+      },
+      {
+        "role": "Sr Software Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 165000.0,
+    "avg_salary_max": 241400.0,
+    "avg_salary_midpoint": 203200.0,
+    "countries": [
+      "US",
+      "IN"
+    ],
+    "locations": [
+      "Bengaluru, IN",
+      "Milpitas, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "AmbitionBox",
+        "score": 4.1,
+        "review_count": 2242.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 4.1,
+        "review_count": 33614.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 4.1,
+        "review_count": 6650.0
+      }
+    ],
+    "avg_review_score": 4.1,
+    "layoff_events": [
+      {
+        "date": "2026-05-13",
+        "laid_off": 4000.0,
+        "percentage": 5.0,
+        "industry": "Infrastruct\u2026",
+        "source": "https://blogs.cisco.com/news/our-path-forward",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2025-08-19",
+        "laid_off": 221.0,
+        "percentage": null,
+        "industry": "Infrastruct\u2026",
+        "source": "https://www.sfchronicle.com/tech/article/cisco-oracle-layoffs-bay-area-20824135.php",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": 5600.0,
+        "percentage": 7.0,
+        "industry": "Infrastruct\u2026",
+        "source": "https://techcrunch.com/2024/09/17/ciscos-second-layoff-of-2024-affect-thousands-of-employees/",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2024-02-14",
+        "laid_off": 4250.0,
+        "percentage": 5.0,
+        "industry": "Infrastruct\u2026",
+        "source": "https://www.cnbc.com/2024/02/14/cisco-cutting-5percent-of-global-workforce-in-restructuring-move.html",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Workday": {
+    "name": "Workday",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "Distributed Systems",
+        "count": 2
+      },
+      {
+        "skill": "Monitoring",
+        "count": 2
+      },
+      {
+        "skill": "Networking",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Storage",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "MLOps",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Software Development Engineer",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer or Senior Software Engineer - Data Hub",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA",
+      "IN"
+    ],
+    "locations": [
+      "Pimpri-Chinchwad, IN",
+      "Toronto, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [
+      {
+        "date": null,
+        "laid_off": 400.0,
+        "percentage": 2.0,
+        "industry": "HR",
+        "source": "https://www.bloomberg.com/news/articles/2026-02-04/workday-to-cut-about-400-employees-focused-on-customer-support",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": null,
+        "laid_off": 1750.0,
+        "percentage": 8.0,
+        "industry": "HR",
+        "source": "https://www.cnbc.com/2025/02/05/workday-to-cut-1750-jobs-in-ai-push.html",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Bank of America": {
+    "name": "Bank of America",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 3
+      },
+      {
+        "skill": "Leadership",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "Risk Management",
+        "count": 3
+      },
+      {
+        "skill": "APIs",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "Cybersecurity",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Problem Solving",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Software Engineer II A - GBS IND",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer II A- GBS IND",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer III",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US",
+      "IN"
+    ],
+    "locations": [
+      "Addison, US",
+      "Chennai, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Roku": {
+    "name": "Roku",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "AI Literacy",
+        "count": 2
+      },
+      {
+        "skill": "Airflow",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Spark",
+        "count": 2
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "ETL",
+        "count": 1
+      },
+      {
+        "skill": "Storage",
+        "count": 1
+      },
+      {
+        "skill": "BERT",
+        "count": 1
+      },
+      {
+        "skill": "Causal Inference",
+        "count": 1
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "NLP",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "Transformers",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Software Engineer - Backend and Data",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer - Machine Learning",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Bengaluru, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "ARM": {
+    "name": "ARM",
+    "total_postings": 4,
+    "top_skills": [
+      {
+        "skill": "C++",
+        "count": 4
+      },
+      {
+        "skill": "ROS",
+        "count": 4
+      },
+      {
+        "skill": "Git",
+        "count": 3
+      },
+      {
+        "skill": "Testing",
+        "count": 3
+      },
+      {
+        "skill": "Control Systems",
+        "count": 2
+      },
+      {
+        "skill": "Simulation",
+        "count": 2
+      },
+      {
+        "skill": "Linux",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Networking",
+        "count": 1
+      },
+      {
+        "skill": "PyTorch",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Software Engineer \u2013 Networking for AI",
+        "count": 1
+      },
+      {
+        "role": "Staff SOC Modeling Engineer",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer Compilers",
+        "count": 1
+      },
+      {
+        "role": "Staff C++ Modelling Engineer \u2013 Virtual Platforms",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "IN"
+    ],
+    "locations": [
+      "Bengaluru, IN",
+      "Cambridge, GB",
+      "Manchester, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Procore": {
+    "name": "Procore",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Software Engineer",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer 2",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Pune, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "Glassdoor",
+        "score": 3.3999999999999995,
+        "review_count": 1614.0
+      },
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.6,
+        "review_count": 19.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 3.8,
+        "review_count": 69.0
+      }
+    ],
+    "avg_review_score": 3.5999999999999996,
+    "layoff_events": [
+      {
+        "date": "2024-01-30",
+        "laid_off": null,
+        "percentage": 4.0,
+        "industry": "Constructi\u2026",
+        "source": "Internal memo",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Danaher": {
+    "name": "Danaher",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "C++",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Control Systems",
+        "count": 1
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "Simulation",
+        "count": 1
+      },
+      {
+        "skill": "CUDA",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Lead Software Engineer II",
+        "count": 1
+      },
+      {
+        "role": "Senior Software Engineer - USA Remote",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 128000.0,
+    "avg_salary_max": 143000.0,
+    "avg_salary_midpoint": 135500.0,
+    "countries": [
+      "US",
+      "IN"
+    ],
+    "locations": [
+      "Bengaluru, IN",
+      "Raleigh, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "Glassdoor",
+        "score": 3.3999999999999995,
+        "review_count": 828.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 3.7,
+        "review_count": 487.0
+      },
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.8,
+        "review_count": 104.0
+      }
+    ],
+    "avg_review_score": 3.633333333333333,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Speechify": {
+    "name": "Speechify",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "APIs",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Product Strategy",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Software Engineer, Core Experiences - Washington, DC, USA",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer, Platform - Reston, VA, USA",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 140000.0,
+    "avg_salary_max": 200000.0,
+    "avg_salary_midpoint": 170000.0,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "Washington, US",
+      "Reston, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "Glassdoor",
+        "score": 4.3,
+        "review_count": 114.0
+      },
+      {
+        "publisher": "AmbitionBox",
+        "score": 2.3,
+        "review_count": 4.0
+      }
+    ],
+    "avg_review_score": 3.3,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Pearson": {
+    "name": "Pearson",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Networking",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Software Engineer",
+        "count": 1
+      },
+      {
+        "role": "Software Engineer III",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "US"
+    ],
+    "locations": [
+      "Topeka, US",
+      "Annapolis, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Hunter Bond": {
+    "name": "Hunter Bond",
+    "total_postings": 4,
+    "top_skills": [
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "C++",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Platform Engineer \u2013 Quant Fund - Up to $240,000 - Starting base + Exceptional benefits/bonus package Fund \u2013 New York",
+        "count": 1
+      },
+      {
+        "role": "C++ Software Engineer \u2013 Packages Up to \u00a3400K \u2013 London",
+        "count": 1
+      },
+      {
+        "role": "Python Quant Developer - Front-Office with P&L Impact",
+        "count": 1
+      },
+      {
+        "role": "Front-End Engineer - Montreal - Up to $200,000 CAD + Exceptional Bonuses/Benefits",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "US",
+      "CA"
+    ],
+    "locations": [
+      "Montreal, CA",
+      "New York, US",
+      "London, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 4
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Actalent": {
+    "name": "Actalent",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "C++",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Storage",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Software Engineer",
+        "count": 1
+      },
+      {
+        "role": "Data Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 55.0,
+    "avg_salary_max": 80.0,
+    "avg_salary_midpoint": 67.5,
+    "countries": [
+      "US",
+      "CA"
+    ],
+    "locations": [
+      "Niles, US",
+      "Burnaby, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Boeing": {
+    "name": "Boeing",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "ML",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "Documentation",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "Control Systems",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Seat Systems Software Certification Engineer (Associate or Experienced level)",
+        "count": 1
+      },
+      {
+        "role": "Associate Programmer Analyst - Python Full-Stack",
+        "count": 1
+      },
+      {
+        "role": "Senior DevOps Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "CA",
+      "IN"
+    ],
+    "locations": [
+      "Richmond, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "AmbitionBox",
+        "score": 3.9,
+        "review_count": 750.0
+      },
+      {
+        "publisher": "Glassdoor",
+        "score": 3.7,
+        "review_count": 18247.0
+      },
+      {
+        "publisher": "Indeed",
+        "score": 3.9,
+        "review_count": 10235.0
+      }
+    ],
+    "avg_review_score": 3.8333333333333335,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "BAE Systems": {
+    "name": "BAE Systems",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "C++",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Cybersecurity",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Software Engineer \u2013 Gloucester \u2013 National Security West",
+        "count": 1
+      },
+      {
+        "role": "Senior Cyber Software Engineer/ Technical Lead",
+        "count": 1
+      },
+      {
+        "role": "Specialist Development Software Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "Gloucester, GB",
+      "Preston, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Client Server": {
+    "name": "Client Server",
+    "total_postings": 5,
+    "top_skills": [
+      {
+        "skill": "Python",
+        "count": 4
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "C++",
+        "count": 2
+      },
+      {
+        "skill": "Problem Solving",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "Cybersecurity",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Graduate Software Engineer Computer Science",
+        "count": 1
+      },
+      {
+        "role": "Python Developer / Technical Lead",
+        "count": 1
+      },
+      {
+        "role": "Python Developer - Cyber Security",
+        "count": 1
+      },
+      {
+        "role": "Remote Data Software Engineer Python PySpark",
+        "count": 1
+      },
+      {
+        "role": "Full Stack Developer Python JavaScript",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "Cambridge, GB"
+    ],
+    "remote_friendly_pct": 0.4,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 4
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Leidos": {
+    "name": "Leidos",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Agile",
+        "count": 3
+      },
+      {
+        "skill": "CI/CD",
+        "count": 3
+      },
+      {
+        "skill": "Git",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "APIs",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "C++",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Software Engineer (Full Stack)",
+        "count": 1
+      },
+      {
+        "role": "Front End Software Engineer",
+        "count": 1
+      },
+      {
+        "role": "Junior Python Developer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "US"
+    ],
+    "locations": [
+      "Bethesda, US"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Qualcomm": {
+    "name": "Qualcomm",
+    "total_postings": 4,
+    "top_skills": [
+      {
+        "skill": "C++",
+        "count": 4
+      },
+      {
+        "skill": "ROS",
+        "count": 4
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "Communication",
+        "count": 3
+      },
+      {
+        "skill": "Git",
+        "count": 3
+      },
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "Linux",
+        "count": 2
+      },
+      {
+        "skill": "PyTorch",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "NLP",
+        "count": 1
+      },
+      {
+        "skill": "Statistics",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Neural Networks",
+        "count": 1
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Control Systems",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Staff Software Engineer \u2013 ESL & Bluetooth Systems - Cambridge, UK",
+        "count": 1
+      },
+      {
+        "role": "Sr. Machine Learning Framework, Complier & Performance Engineer",
+        "count": 1
+      },
+      {
+        "role": "Sr. Engineer, Machine Learning Engineering (C++)",
+        "count": 1
+      },
+      {
+        "role": "Sr. Staff - DevOps Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB",
+      "CA"
+    ],
+    "locations": [
+      "Cambridge, GB"
+    ],
+    "remote_friendly_pct": 0.25,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [
+      {
+        "date": null,
+        "laid_off": 104.0,
+        "percentage": null,
+        "industry": "Hardware",
+        "source": "https://www.sandiegouniontribune.com/2026/04/09/qualcomm-lays-off-dozens-of-senior-positions-in-san-diego/",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Infosys": {
+    "name": "Infosys",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Agile",
+        "count": 3
+      },
+      {
+        "skill": "Testing",
+        "count": 3
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Problem Solving",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Python React Developer",
+        "count": 1
+      },
+      {
+        "role": "Python Developer(2-9yrs) - Hiring @Infosys",
+        "count": 1
+      },
+      {
+        "role": "Technology Lead- Frontend Developer- Angular",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA",
+      "IN"
+    ],
+    "locations": [
+      "Mississauga, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Turing": {
+    "name": "Turing",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "Research",
+        "count": 3
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "C++",
+        "count": 2
+      },
+      {
+        "skill": "Monitoring",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Remote Python Developer",
+        "count": 1
+      },
+      {
+        "role": "Remote Python Engineer",
+        "count": 1
+      },
+      {
+        "role": "Remote Backend Engineer (Python/FastAPI)",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Gurugram, IN"
+    ],
+    "remote_friendly_pct": 0.6666666666666666,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Ericsson": {
+    "name": "Ericsson",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Agile",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 3
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Documentation",
+        "count": 2
+      },
+      {
+        "skill": "Monitoring",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Automation Engineer - Python Developer",
+        "count": 1
+      },
+      {
+        "role": "Automation Engineer-Python",
+        "count": 1
+      },
+      {
+        "role": "Java & Python Developer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Noida, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [
+      {
+        "date": "2026-01-15",
+        "laid_off": 1600.0,
+        "percentage": null,
+        "industry": "Other",
+        "source": "https://www.reuters.com/business/world-at-work/ericsson-shed-1600-jobs-sweden-2026-01-15/",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Kpmg India Services Llp": {
+    "name": "Kpmg India Services Llp",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "APIs",
+        "count": 2
+      },
+      {
+        "skill": "AutoGen",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 2
+      },
+      {
+        "skill": "LangChain",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Python Developer - Gen AI & AI Foundry",
+        "count": 1
+      },
+      {
+        "role": "Python Developer Consultant with Generative AI Expertise",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [
+      "Bengaluru, IN"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [
+      {
+        "publisher": "Glassdoor",
+        "score": 3.7,
+        "review_count": 159.0
+      }
+    ],
+    "avg_review_score": 3.7,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Zensar Technologies": {
+    "name": "Zensar Technologies",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "Linux",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Python Backend Developer with Unix",
+        "count": 1
+      },
+      {
+        "role": "Python Engineer (with Devops)",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "IN"
+    ],
+    "locations": [],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 1
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Insight Global": {
+    "name": "Insight Global",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Python Engineer-USA Remote",
+        "count": 1
+      },
+      {
+        "role": "DevOps Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 25.0,
+    "avg_salary_max": 30.0,
+    "avg_salary_midpoint": 27.5,
+    "countries": [
+      "CA"
+    ],
+    "locations": [],
+    "remote_friendly_pct": 0.5,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Oliver Bernard": {
+    "name": "Oliver Bernard",
+    "total_postings": 4,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 4
+      },
+      {
+        "skill": "Python",
+        "count": 4
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "NLP",
+        "count": 2
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Lead Python Developer - InsurTech - Up to \u00a3110k",
+        "count": 1
+      },
+      {
+        "role": "Python Developers - Gen AI - Up to \u00a3150k",
+        "count": 1
+      },
+      {
+        "role": "Mid-Level Full-Stack Engineer (Python/TypeScript)",
+        "count": 1
+      },
+      {
+        "role": "Python Developer - GenAI - Up to \u00a3150k",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": 55000.0,
+    "avg_salary_max": 75000.0,
+    "avg_salary_midpoint": 65000.0,
+    "countries": [
+      "GB"
+    ],
+    "locations": [],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Digital Appointments": {
+    "name": "Digital Appointments",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Control Systems",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Remote Python Developer",
+        "count": 2
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Recruitmentrevolution.com": {
+    "name": "Recruitmentrevolution.com",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Docker",
+        "count": 2
+      },
+      {
+        "skill": "Documentation",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 2
+      },
+      {
+        "skill": "Leadership",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Remote Senior Python Developer Azure - Scaling AI Platform. . REMOTE",
+        "count": 2
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "GB"
+    ],
+    "locations": [
+      "Gloucester, GB",
+      "Dunfermline, GB"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Autodesk": {
+    "name": "Autodesk",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "ETL",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Machine Learning Engineering Manager, Model Delivery (Toronto)",
+        "count": 1
+      },
+      {
+        "role": "Data Engineer for AI at Autodesk",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Toronto, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [
+      {
+        "date": "2026-01-22",
+        "laid_off": 1000.0,
+        "percentage": 7.0,
+        "industry": "Other",
+        "source": "https://www.reuters.com/business/world-at-work/autodesk-lay-off-about-7-workforce-2026-01-22/",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2025-02-27",
+        "laid_off": 1350.0,
+        "percentage": 9.0,
+        "industry": "Other",
+        "source": "https://www.cnbc.com/2025/02/27/autodesk-says-it-will-cut-1350-employees.html",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "HelloFresh": {
+    "name": "HelloFresh",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Deployment",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Monitoring",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Embeddings",
+        "count": 1
+      },
+      {
+        "skill": "Feature Stores",
+        "count": 1
+      },
+      {
+        "skill": "PyTorch",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Distributed Systems",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Machine Learning Engineer, Growth",
+        "count": 1
+      },
+      {
+        "role": "Backend Engineer, Consumer",
+        "count": 1
+      },
+      {
+        "role": "Senior Fullstack Developer, Consumer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Toronto, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [
+      {
+        "date": "2025-03-17",
+        "laid_off": 273.0,
+        "percentage": null,
+        "industry": "Food",
+        "source": "https://www.grocerydive.com/news/hellofresh-close-texas-distribution-centers-cut-nearly-300-jobs/742616/",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Royal Bank of Canada": {
+    "name": "Royal Bank of Canada",
+    "total_postings": 9,
+    "top_skills": [
+      {
+        "skill": "ROS",
+        "count": 9
+      },
+      {
+        "skill": "Cloud",
+        "count": 7
+      },
+      {
+        "skill": "APIs",
+        "count": 6
+      },
+      {
+        "skill": "Git",
+        "count": 6
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 6
+      },
+      {
+        "skill": "ML",
+        "count": 6
+      },
+      {
+        "skill": "Testing",
+        "count": 6
+      },
+      {
+        "skill": "Agile",
+        "count": 6
+      },
+      {
+        "skill": "Python",
+        "count": 5
+      },
+      {
+        "skill": "Docker",
+        "count": 5
+      },
+      {
+        "skill": "Problem Solving",
+        "count": 5
+      },
+      {
+        "skill": "CI/CD",
+        "count": 4
+      },
+      {
+        "skill": "Deployment",
+        "count": 4
+      },
+      {
+        "skill": "Communication",
+        "count": 4
+      },
+      {
+        "skill": "Leadership",
+        "count": 4
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 2
+      },
+      {
+        "skill": "Cybersecurity",
+        "count": 2
+      },
+      {
+        "skill": "LLMs",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "Storage",
+        "count": 2
+      },
+      {
+        "skill": "Distributed Systems",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Computer Vision",
+        "count": 1
+      },
+      {
+        "skill": "Feature Stores",
+        "count": 1
+      },
+      {
+        "skill": "MLflow",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "Mathematics",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Staff AI/ML Engineer",
+        "count": 1
+      },
+      {
+        "role": "Staff AI Engineer- (Global Security)",
+        "count": 1
+      },
+      {
+        "role": "Senior Cloud DevOps Developer",
+        "count": 1
+      },
+      {
+        "role": "Lead DevOps Engineer",
+        "count": 1
+      },
+      {
+        "role": "Lead Backend Engineer",
+        "count": 1
+      },
+      {
+        "role": "Lead Backend Developer - Agentic AI (Python)",
+        "count": 1
+      },
+      {
+        "role": "Senior Frontend Software Developer",
+        "count": 1
+      },
+      {
+        "role": "Junior Full Stack Developer (Global Security)",
+        "count": 1
+      },
+      {
+        "role": "Associate Director, Lead Fullstack Developer (React/Node.js)",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Calgary, CA",
+      "Toronto, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-05",
+        "postings": 1
+      },
+      {
+        "month": "2026-06",
+        "postings": 8
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Ciklum": {
+    "name": "Ciklum",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Monitoring",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "RAG",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "Networking",
+        "count": 1
+      },
+      {
+        "skill": "Prompt Engineering",
+        "count": 1
+      },
+      {
+        "skill": "LangChain",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "MLOps",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior Artificial Intelligence/Machine Learning Engineer",
+        "count": 1
+      },
+      {
+        "role": "Lead Artificial Intelligence/Machine Learning Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [],
+    "locations": [],
+    "remote_friendly_pct": 1.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Teladoc Health Canada": {
+    "name": "Teladoc Health Canada",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "CI/CD",
+        "count": 3
+      },
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "DevOps Engineer at Teladoc Health Canada",
+        "count": 1
+      },
+      {
+        "role": "DevOps Engineer with Teladoc Health",
+        "count": 1
+      },
+      {
+        "role": "Senior Frontend Developer - 1 Year Contract",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Saint Laurent, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "eBay": {
+    "name": "eBay",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "APIs",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Product Strategy",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Enterprise Application DevOps Engineer",
+        "count": 1
+      },
+      {
+        "role": "MTS-2 Front End Software Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Toronto, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [
+      {
+        "date": "2026-02-26",
+        "laid_off": 800.0,
+        "percentage": 6.0,
+        "industry": "Retail",
+        "source": "https://www.cnbc.com/2026/02/26/ebay-layoffs-800-workforce.html",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2025-05-28",
+        "laid_off": 200.0,
+        "percentage": null,
+        "industry": "Retail",
+        "source": "https://www.calcalistech.com/ctechnews/article/hywdt44mxx",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2025-02-26",
+        "laid_off": 20.0,
+        "percentage": null,
+        "industry": "Retail",
+        "source": "https://www.calcalistech.com/ctechnews/article/bjgsl8n9yl",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2024-06-26",
+        "laid_off": null,
+        "percentage": null,
+        "industry": "Retail",
+        "source": "https://www.calcalistech.com/ctechnews/article/rysmrkfua",
+        "stage": "Post-IPO"
+      },
+      {
+        "date": "2024-01-23",
+        "laid_off": 1000.0,
+        "percentage": 9.0,
+        "industry": "Retail",
+        "source": "https://www.cnbc.com/2024/01/23/ebay-to-slash-about-1000-roles-or-approximately-9percent-of-full-time-employees.html",
+        "stage": "Post-IPO"
+      }
+    ],
+    "has_layoffs": true
+  },
+  "Capgemini": {
+    "name": "Capgemini",
+    "total_postings": 4,
+    "top_skills": [
+      {
+        "skill": "Cloud",
+        "count": 4
+      },
+      {
+        "skill": "Git",
+        "count": 4
+      },
+      {
+        "skill": "RAG",
+        "count": 4
+      },
+      {
+        "skill": "ROS",
+        "count": 4
+      },
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Monitoring",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "Networking",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "DevOps Engineer",
+        "count": 1
+      },
+      {
+        "role": "Senior C# Back-end Developer",
+        "count": 1
+      },
+      {
+        "role": "Java Full Stack Developer",
+        "count": 1
+      },
+      {
+        "role": "Data Engineer- ETL/Python/Pyspark",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Montreal, CA",
+      "Mississauga, CA",
+      "Toronto, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 4
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Aarorn Technologies Inc": {
+    "name": "Aarorn Technologies Inc",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "APIs",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Storage",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Sr. Backend Developer",
+        "count": 1
+      },
+      {
+        "role": "Fullstack Developer with Angular, Node and React",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Toronto, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Yochana": {
+    "name": "Yochana",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "ML",
+        "count": 2
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "Distributed Systems",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Cloud",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Networking",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "Storage",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Senior TypeScript Backend Developer in Canada",
+        "count": 1
+      },
+      {
+        "role": "Full Stack Lead",
+        "count": 1
+      },
+      {
+        "role": "Azure Cloud Engineer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Outaouais, CA",
+      "Calgary, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Transformer Table": {
+    "name": "Transformer Table",
+    "total_postings": 2,
+    "top_skills": [
+      {
+        "skill": "Git",
+        "count": 2
+      },
+      {
+        "skill": "ROS",
+        "count": 2
+      },
+      {
+        "skill": "APIs",
+        "count": 1
+      },
+      {
+        "skill": "Deployment",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Monitoring",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "SQL",
+        "count": 1
+      },
+      {
+        "skill": "Testing",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Back End Developer",
+        "count": 1
+      },
+      {
+        "role": "Front End Developer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Dorval, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "Professional": {
+    "name": "Professional",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "Communication",
+        "count": 3
+      },
+      {
+        "skill": "Git",
+        "count": 3
+      },
+      {
+        "skill": "Testing",
+        "count": 3
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "SQL",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 1
+      },
+      {
+        "skill": "Linux",
+        "count": 1
+      },
+      {
+        "skill": "Problem Solving",
+        "count": 1
+      },
+      {
+        "skill": "RAG",
+        "count": 1
+      },
+      {
+        "skill": "ROS",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      },
+      {
+        "skill": "Leadership",
+        "count": 1
+      },
+      {
+        "skill": "Spark",
+        "count": 1
+      },
+      {
+        "skill": "Agile",
+        "count": 1
+      },
+      {
+        "skill": "Docker",
+        "count": 1
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 1
+      },
+      {
+        "skill": "Risk Management",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Core Backend Java Developer",
+        "count": 1
+      },
+      {
+        "role": "Senior Java Backend Developer",
+        "count": 1
+      },
+      {
+        "role": "Senior Full Stack Java Developer - Citi Velocity",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [
+      "Mississauga, CA"
+    ],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 2
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  },
+  "United States Digital Space LLC": {
+    "name": "United States Digital Space LLC",
+    "total_postings": 3,
+    "top_skills": [
+      {
+        "skill": "ROS",
+        "count": 3
+      },
+      {
+        "skill": "SQL",
+        "count": 3
+      },
+      {
+        "skill": "APIs",
+        "count": 2
+      },
+      {
+        "skill": "CI/CD",
+        "count": 2
+      },
+      {
+        "skill": "Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Agile",
+        "count": 2
+      },
+      {
+        "skill": "Deployment",
+        "count": 2
+      },
+      {
+        "skill": "Docker",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 2
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 1
+      },
+      {
+        "skill": "Documentation",
+        "count": 1
+      },
+      {
+        "skill": "Prompt Engineering",
+        "count": 1
+      },
+      {
+        "skill": "Communication",
+        "count": 1
+      },
+      {
+        "skill": "ETL",
+        "count": 1
+      },
+      {
+        "skill": "Git",
+        "count": 1
+      },
+      {
+        "skill": "LLMs",
+        "count": 1
+      },
+      {
+        "skill": "ML",
+        "count": 1
+      },
+      {
+        "skill": "Python",
+        "count": 1
+      },
+      {
+        "skill": "Research",
+        "count": 1
+      },
+      {
+        "skill": "System Design",
+        "count": 1
+      }
+    ],
+    "top_roles": [
+      {
+        "role": "Backend Developer for Loyalty Platform",
+        "count": 1
+      },
+      {
+        "role": "Senior Full Stack Developer (Java)",
+        "count": 1
+      },
+      {
+        "role": "AI & Full Stack Developer",
+        "count": 1
+      }
+    ],
+    "avg_salary_min": null,
+    "avg_salary_max": null,
+    "avg_salary_midpoint": null,
+    "countries": [
+      "CA"
+    ],
+    "locations": [],
+    "remote_friendly_pct": 0.0,
+    "hiring_trend_monthly": [
+      {
+        "month": "2026-06",
+        "postings": 3
+      }
+    ],
+    "reviews": [],
+    "avg_review_score": null,
+    "layoff_events": [],
+    "has_layoffs": false
+  }
+}
